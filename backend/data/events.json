@@ -1,0 +1,482 @@
+{
+  "events": [
+    {
+      "id": "event_event_001",
+      "title": "Open to All: Industry News Connect & Networking Session",
+      "description": "Join our open industry news networking session. Meet colleagues, share insights, and build connections.\n\nDate: 2026-04-01\nTime: 12:00–13:00 GMT\nFormat: Hybrid (Teams + Office)\n\nRSVP: https://intranet.example/rsvp/industry news-1\nTeams: https://teams.example/join/industry news-1",
+      "industry": null,
+      "capability": [
+        "Digital Engineering"
+      ],
+      "event_type": "networking",
+      "open_to_all": true,
+      "date_utc": "2026-04-01",
+      "time_utc": "12:00–13:00",
+      "location": "Hybrid – Teams + Office",
+      "rsvp_link": "https://intranet.example/rsvp/industry news-1",
+      "contact_ids": [
+        "contact_alex_industry_newslead"
+      ],
+      "tags": [
+        "open_to_all",
+        "networking",
+        "industry news",
+        "industry:none"
+      ]
+    },
+    {
+      "id": "event_event_002",
+      "title": "Open to All: Community Connect & Networking Session",
+      "description": "Join our open community networking session. Meet colleagues, share insights, and build connections.\n\nDate: 2026-04-02\nTime: 12:00–13:00 GMT\nFormat: Hybrid (Teams + Office)\n\nRSVP: https://intranet.example/rsvp/community-2\nTeams: https://teams.example/join/community-2",
+      "industry": null,
+      "capability": [],
+      "event_type": "networking",
+      "open_to_all": true,
+      "date_utc": "2026-04-02",
+      "time_utc": "12:00–13:00",
+      "location": "Hybrid – Teams + Office",
+      "rsvp_link": "https://intranet.example/rsvp/community-2",
+      "contact_ids": [
+        "contact_alex_communitylead"
+      ],
+      "tags": [
+        "open_to_all",
+        "networking",
+        "community",
+        "industry:none"
+      ]
+    },
+    {
+      "id": "event_event_003",
+      "title": "Open to All: Learning Connect & Networking Session",
+      "description": "Join our open learning networking session. Meet colleagues, share insights, and build connections.\n\nDate: 2026-04-03\nTime: 12:00–13:00 GMT\nFormat: Hybrid (Teams + Office)\n\nRSVP: https://intranet.example/rsvp/learning-3\nTeams: https://teams.example/join/learning-3",
+      "industry": null,
+      "capability": [
+        "Data & AI"
+      ],
+      "event_type": "networking",
+      "open_to_all": true,
+      "date_utc": "2026-04-03",
+      "time_utc": "12:00–13:00",
+      "location": "Hybrid – Teams + Office",
+      "rsvp_link": "https://intranet.example/rsvp/learning-3",
+      "contact_ids": [
+        "contact_alex_learninglead"
+      ],
+      "tags": [
+        "open_to_all",
+        "networking",
+        "learning",
+        "industry:none"
+      ]
+    },
+    {
+      "id": "event_event_004",
+      "title": "Open to All: Leadership Connect & Networking Session",
+      "description": "Join our open leadership networking session. Meet colleagues, share insights, and build connections.\n\nDate: 2026-04-04\nTime: 12:00–13:00 GMT\nFormat: Hybrid (Teams + Office)\n\nRSVP: https://intranet.example/rsvp/leadership-4\nTeams: https://teams.example/join/leadership-4",
+      "industry": null,
+      "capability": [
+        "Digital Engineering"
+      ],
+      "event_type": "networking",
+      "open_to_all": true,
+      "date_utc": "2026-04-04",
+      "time_utc": "12:00–13:00",
+      "location": "Hybrid – Teams + Office",
+      "rsvp_link": "https://intranet.example/rsvp/leadership-4",
+      "contact_ids": [
+        "contact_alex_leadershiplead"
+      ],
+      "tags": [
+        "open_to_all",
+        "networking",
+        "leadership",
+        "industry:none"
+      ]
+    },
+    {
+      "id": "event_event_005",
+      "title": "Open to All: Technology Connect & Networking Session",
+      "description": "Join our open technology networking session. Meet colleagues, share insights, and build connections.\n\nDate: 2026-04-05\nTime: 12:00–13:00 GMT\nFormat: Hybrid (Teams + Office)\n\nRSVP: https://intranet.example/rsvp/technology-5\nTeams: https://teams.example/join/technology-5",
+      "industry": "Communications, Media & Technology",
+      "capability": [
+        "Cyber Security",
+        "Cloud & Infrastructure"
+      ],
+      "event_type": "networking",
+      "open_to_all": true,
+      "date_utc": "2026-04-05",
+      "time_utc": "12:00–13:00",
+      "location": "Hybrid – Teams + Office",
+      "rsvp_link": "https://intranet.example/rsvp/technology-5",
+      "contact_ids": [
+        "contact_alex_technologylead"
+      ],
+      "tags": [
+        "open_to_all",
+        "networking",
+        "technology",
+        "industry:Communications, Media & Technology"
+      ]
+    },
+    {
+      "id": "event_event_006",
+      "title": "Open to All: Sustainability Connect & Networking Session",
+      "description": "Join our open sustainability networking session. Meet colleagues, share insights, and build connections.\n\nDate: 2026-04-06\nTime: 12:00–13:00 GMT\nFormat: Hybrid (Teams + Office)\n\nRSVP: https://intranet.example/rsvp/sustainability-6\nTeams: https://teams.example/join/sustainability-6",
+      "industry": "Resources",
+      "capability": [
+        "Digital Engineering"
+      ],
+      "event_type": "networking",
+      "open_to_all": true,
+      "date_utc": "2026-04-06",
+      "time_utc": "12:00–13:00",
+      "location": "Hybrid – Teams + Office",
+      "rsvp_link": "https://intranet.example/rsvp/sustainability-6",
+      "contact_ids": [
+        "contact_alex_sustainabilitylead"
+      ],
+      "tags": [
+        "open_to_all",
+        "networking",
+        "sustainability",
+        "industry:Resources"
+      ]
+    },
+    {
+      "id": "event_event_007",
+      "title": "Open to All: Early Careers Connect & Networking Session",
+      "description": "Join our open early careers networking session. Meet colleagues, share insights, and build connections.\n\nDate: 2026-04-07\nTime: 12:00–13:00 GMT\nFormat: Hybrid (Teams + Office)\n\nRSVP: https://intranet.example/rsvp/early careers-7\nTeams: https://teams.example/join/early careers-7",
+      "industry": null,
+      "capability": [
+        "Digital Engineering"
+      ],
+      "event_type": "networking",
+      "open_to_all": true,
+      "date_utc": "2026-04-07",
+      "time_utc": "12:00–13:00",
+      "location": "Hybrid – Teams + Office",
+      "rsvp_link": "https://intranet.example/rsvp/early careers-7",
+      "contact_ids": [
+        "contact_alex_early_careerslead"
+      ],
+      "tags": [
+        "open_to_all",
+        "networking",
+        "early careers",
+        "industry:none"
+      ]
+    },
+    {
+      "id": "event_event_008",
+      "title": "Open to All: Wellbeing Connect & Networking Session",
+      "description": "Join our open wellbeing networking session. Meet colleagues, share insights, and build connections.\n\nDate: 2026-04-08\nTime: 12:00–13:00 GMT\nFormat: Hybrid (Teams + Office)\n\nRSVP: https://intranet.example/rsvp/wellbeing-8\nTeams: https://teams.example/join/wellbeing-8",
+      "industry": "Health & Public Service",
+      "capability": [
+        "Digital Engineering"
+      ],
+      "event_type": "networking",
+      "open_to_all": true,
+      "date_utc": "2026-04-08",
+      "time_utc": "12:00–13:00",
+      "location": "Hybrid – Teams + Office",
+      "rsvp_link": "https://intranet.example/rsvp/wellbeing-8",
+      "contact_ids": [
+        "contact_alex_wellbeinglead"
+      ],
+      "tags": [
+        "open_to_all",
+        "networking",
+        "wellbeing",
+        "industry:Health & Public Service"
+      ]
+    },
+    {
+      "id": "event_event_009",
+      "title": "Open to All: Innovation Connect & Networking Session",
+      "description": "Join our open innovation networking session. Meet colleagues, share insights, and build connections.\n\nDate: 2026-04-09\nTime: 12:00–13:00 GMT\nFormat: Hybrid (Teams + Office)\n\nRSVP: https://intranet.example/rsvp/innovation-9\nTeams: https://teams.example/join/innovation-9",
+      "industry": "Communications, Media & Technology",
+      "capability": [
+        "Cyber Security",
+        "Digital Engineering",
+        "Data & AI",
+        "Cloud & Infrastructure"
+      ],
+      "event_type": "networking",
+      "open_to_all": true,
+      "date_utc": "2026-04-09",
+      "time_utc": "12:00–13:00",
+      "location": "Hybrid – Teams + Office",
+      "rsvp_link": "https://intranet.example/rsvp/innovation-9",
+      "contact_ids": [
+        "contact_alex_innovationlead"
+      ],
+      "tags": [
+        "open_to_all",
+        "networking",
+        "innovation",
+        "industry:Communications, Media & Technology"
+      ]
+    },
+    {
+      "id": "event_event_010",
+      "title": "Open to All: Networking Connect & Networking Session",
+      "description": "Join our open networking networking session. Meet colleagues, share insights, and build connections.\n\nDate: 2026-04-10\nTime: 12:00–13:00 GMT\nFormat: Hybrid (Teams + Office)\n\nRSVP: https://intranet.example/rsvp/networking-10\nTeams: https://teams.example/join/networking-10",
+      "industry": null,
+      "capability": [],
+      "event_type": "networking",
+      "open_to_all": true,
+      "date_utc": "2026-04-10",
+      "time_utc": "12:00–13:00",
+      "location": "Hybrid – Teams + Office",
+      "rsvp_link": "https://intranet.example/rsvp/networking-10",
+      "contact_ids": [
+        "contact_alex_networkinglead"
+      ],
+      "tags": [
+        "open_to_all",
+        "networking",
+        "industry:none"
+      ]
+    },
+    {
+      "id": "event_event_011",
+      "title": "Open to All: Industry News Connect & Networking Session",
+      "description": "Join our open industry news networking session. Meet colleagues, share insights, and build connections.\n\nDate: 2026-04-11\nTime: 12:00–13:00 GMT\nFormat: Hybrid (Teams + Office)\n\nRSVP: https://intranet.example/rsvp/industry news-11\nTeams: https://teams.example/join/industry news-11",
+      "industry": null,
+      "capability": [
+        "Digital Engineering"
+      ],
+      "event_type": "networking",
+      "open_to_all": true,
+      "date_utc": "2026-04-11",
+      "time_utc": "12:00–13:00",
+      "location": "Hybrid – Teams + Office",
+      "rsvp_link": "https://intranet.example/rsvp/industry news-11",
+      "contact_ids": [
+        "contact_alex_industry_newslead"
+      ],
+      "tags": [
+        "open_to_all",
+        "networking",
+        "industry news",
+        "industry:none"
+      ]
+    },
+    {
+      "id": "event_event_012",
+      "title": "Open to All: Community Connect & Networking Session",
+      "description": "Join our open community networking session. Meet colleagues, share insights, and build connections.\n\nDate: 2026-04-12\nTime: 12:00–13:00 GMT\nFormat: Hybrid (Teams + Office)\n\nRSVP: https://intranet.example/rsvp/community-12\nTeams: https://teams.example/join/community-12",
+      "industry": null,
+      "capability": [],
+      "event_type": "networking",
+      "open_to_all": true,
+      "date_utc": "2026-04-12",
+      "time_utc": "12:00–13:00",
+      "location": "Hybrid – Teams + Office",
+      "rsvp_link": "https://intranet.example/rsvp/community-12",
+      "contact_ids": [
+        "contact_alex_communitylead"
+      ],
+      "tags": [
+        "open_to_all",
+        "networking",
+        "community",
+        "industry:none"
+      ]
+    },
+    {
+      "id": "event_event_013",
+      "title": "Open to All: Learning Connect & Networking Session",
+      "description": "Join our open learning networking session. Meet colleagues, share insights, and build connections.\n\nDate: 2026-04-13\nTime: 12:00–13:00 GMT\nFormat: Hybrid (Teams + Office)\n\nRSVP: https://intranet.example/rsvp/learning-13\nTeams: https://teams.example/join/learning-13",
+      "industry": null,
+      "capability": [
+        "Data & AI"
+      ],
+      "event_type": "networking",
+      "open_to_all": true,
+      "date_utc": "2026-04-13",
+      "time_utc": "12:00–13:00",
+      "location": "Hybrid – Teams + Office",
+      "rsvp_link": "https://intranet.example/rsvp/learning-13",
+      "contact_ids": [
+        "contact_alex_learninglead"
+      ],
+      "tags": [
+        "open_to_all",
+        "networking",
+        "learning",
+        "industry:none"
+      ]
+    },
+    {
+      "id": "event_event_014",
+      "title": "Open to All: Leadership Connect & Networking Session",
+      "description": "Join our open leadership networking session. Meet colleagues, share insights, and build connections.\n\nDate: 2026-04-14\nTime: 12:00–13:00 GMT\nFormat: Hybrid (Teams + Office)\n\nRSVP: https://intranet.example/rsvp/leadership-14\nTeams: https://teams.example/join/leadership-14",
+      "industry": null,
+      "capability": [
+        "Digital Engineering"
+      ],
+      "event_type": "networking",
+      "open_to_all": true,
+      "date_utc": "2026-04-14",
+      "time_utc": "12:00–13:00",
+      "location": "Hybrid – Teams + Office",
+      "rsvp_link": "https://intranet.example/rsvp/leadership-14",
+      "contact_ids": [
+        "contact_alex_leadershiplead"
+      ],
+      "tags": [
+        "open_to_all",
+        "networking",
+        "leadership",
+        "industry:none"
+      ]
+    },
+    {
+      "id": "event_event_015",
+      "title": "Open to All: Technology Connect & Networking Session",
+      "description": "Join our open technology networking session. Meet colleagues, share insights, and build connections.\n\nDate: 2026-04-15\nTime: 12:00–13:00 GMT\nFormat: Hybrid (Teams + Office)\n\nRSVP: https://intranet.example/rsvp/technology-15\nTeams: https://teams.example/join/technology-15",
+      "industry": "Communications, Media & Technology",
+      "capability": [
+        "Cyber Security",
+        "Cloud & Infrastructure"
+      ],
+      "event_type": "networking",
+      "open_to_all": true,
+      "date_utc": "2026-04-15",
+      "time_utc": "12:00–13:00",
+      "location": "Hybrid – Teams + Office",
+      "rsvp_link": "https://intranet.example/rsvp/technology-15",
+      "contact_ids": [
+        "contact_alex_technologylead"
+      ],
+      "tags": [
+        "open_to_all",
+        "networking",
+        "technology",
+        "industry:Communications, Media & Technology"
+      ]
+    },
+    {
+      "id": "event_event_016",
+      "title": "Open to All: Sustainability Connect & Networking Session",
+      "description": "Join our open sustainability networking session. Meet colleagues, share insights, and build connections.\n\nDate: 2026-04-16\nTime: 12:00–13:00 GMT\nFormat: Hybrid (Teams + Office)\n\nRSVP: https://intranet.example/rsvp/sustainability-16\nTeams: https://teams.example/join/sustainability-16",
+      "industry": "Resources",
+      "capability": [
+        "Digital Engineering"
+      ],
+      "event_type": "networking",
+      "open_to_all": true,
+      "date_utc": "2026-04-16",
+      "time_utc": "12:00–13:00",
+      "location": "Hybrid – Teams + Office",
+      "rsvp_link": "https://intranet.example/rsvp/sustainability-16",
+      "contact_ids": [
+        "contact_alex_sustainabilitylead"
+      ],
+      "tags": [
+        "open_to_all",
+        "networking",
+        "sustainability",
+        "industry:Resources"
+      ]
+    },
+    {
+      "id": "event_event_017",
+      "title": "Open to All: Early Careers Connect & Networking Session",
+      "description": "Join our open early careers networking session. Meet colleagues, share insights, and build connections.\n\nDate: 2026-04-17\nTime: 12:00–13:00 GMT\nFormat: Hybrid (Teams + Office)\n\nRSVP: https://intranet.example/rsvp/early careers-17\nTeams: https://teams.example/join/early careers-17",
+      "industry": null,
+      "capability": [
+        "Digital Engineering"
+      ],
+      "event_type": "networking",
+      "open_to_all": true,
+      "date_utc": "2026-04-17",
+      "time_utc": "12:00–13:00",
+      "location": "Hybrid – Teams + Office",
+      "rsvp_link": "https://intranet.example/rsvp/early careers-17",
+      "contact_ids": [
+        "contact_alex_early_careerslead"
+      ],
+      "tags": [
+        "open_to_all",
+        "networking",
+        "early careers",
+        "industry:none"
+      ]
+    },
+    {
+      "id": "event_event_018",
+      "title": "Open to All: Wellbeing Connect & Networking Session",
+      "description": "Join our open wellbeing networking session. Meet colleagues, share insights, and build connections.\n\nDate: 2026-04-18\nTime: 12:00–13:00 GMT\nFormat: Hybrid (Teams + Office)\n\nRSVP: https://intranet.example/rsvp/wellbeing-18\nTeams: https://teams.example/join/wellbeing-18",
+      "industry": "Health & Public Service",
+      "capability": [
+        "Digital Engineering"
+      ],
+      "event_type": "networking",
+      "open_to_all": true,
+      "date_utc": "2026-04-18",
+      "time_utc": "12:00–13:00",
+      "location": "Hybrid – Teams + Office",
+      "rsvp_link": "https://intranet.example/rsvp/wellbeing-18",
+      "contact_ids": [
+        "contact_alex_wellbeinglead"
+      ],
+      "tags": [
+        "open_to_all",
+        "networking",
+        "wellbeing",
+        "industry:Health & Public Service"
+      ]
+    },
+    {
+      "id": "event_event_019",
+      "title": "Open to All: Innovation Connect & Networking Session",
+      "description": "Join our open innovation networking session. Meet colleagues, share insights, and build connections.\n\nDate: 2026-04-19\nTime: 12:00–13:00 GMT\nFormat: Hybrid (Teams + Office)\n\nRSVP: https://intranet.example/rsvp/innovation-19\nTeams: https://teams.example/join/innovation-19",
+      "industry": "Communications, Media & Technology",
+      "capability": [
+        "Cyber Security",
+        "Digital Engineering",
+        "Data & AI",
+        "Cloud & Infrastructure"
+      ],
+      "event_type": "networking",
+      "open_to_all": true,
+      "date_utc": "2026-04-19",
+      "time_utc": "12:00–13:00",
+      "location": "Hybrid – Teams + Office",
+      "rsvp_link": "https://intranet.example/rsvp/innovation-19",
+      "contact_ids": [
+        "contact_alex_innovationlead"
+      ],
+      "tags": [
+        "open_to_all",
+        "networking",
+        "innovation",
+        "industry:Communications, Media & Technology"
+      ]
+    },
+    {
+      "id": "event_event_020",
+      "title": "Open to All: Networking Connect & Networking Session",
+      "description": "Join our open networking networking session. Meet colleagues, share insights, and build connections.\n\nDate: 2026-04-20\nTime: 12:00–13:00 GMT\nFormat: Hybrid (Teams + Office)\n\nRSVP: https://intranet.example/rsvp/networking-20\nTeams: https://teams.example/join/networking-20",
+      "industry": null,
+      "capability": [],
+      "event_type": "networking",
+      "open_to_all": true,
+      "date_utc": "2026-04-20",
+      "time_utc": "12:00–13:00",
+      "location": "Hybrid – Teams + Office",
+      "rsvp_link": "https://intranet.example/rsvp/networking-20",
+      "contact_ids": [
+        "contact_alex_networkinglead"
+      ],
+      "tags": [
+        "open_to_all",
+        "networking",
+        "industry:none"
+      ]
+    }
+  ]
+}
