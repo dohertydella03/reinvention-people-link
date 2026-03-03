@@ -1,0 +1,1282 @@
+ { "events": [
+    {
+      "id": "event_001",
+      "title": "Cyber Security Open Networking Session",
+      "description": "Join our open Cyber Security networking session. Meet colleagues, share insights, and build connections across all industries.\n\nDate: 2026-04-01\nTime: 12:00-13:00 GMT\nFormat: Hybrid (Teams + Office)\n\nRSVP: https://intranet.example/rsvp/cyber-networking-1",
+      "industry": null,
+      "capability": [
+        "Cyber Security"
+      ],
+      "event_type": "networking",
+      "open_to_all": true,
+      "date_utc": "2026-04-01",
+      "time_utc": "12:00-13:00",
+      "location": "Hybrid: Teams + Office",
+      "rsvp_link": "https://intranet.example/rsvp/cyber-networking-1",
+      "contact_ids": [
+        "contact_alex_cyberlead",
+        "contact_technology_lead"
+      ],
+      "tags": [
+        "open_to_all",
+        "networking",
+        "cyber",
+        "capability:Cyber Security"
+      ]
+    },
+    {
+      "id": "event_002",
+      "title": "Data & AI Community Connect",
+      "description": "Monthly open networking for anyone curious about Data & AI.\n\nDate: 2026-04-03\nTime: 17:00-18:30 GMT\nFormat: Virtual (Teams)\n\nRSVP: https://intranet.example/rsvp/data-ai-connect-1",
+      "industry": null,
+      "capability": [
+        "Data & AI"
+      ],
+      "event_type": "networking",
+      "open_to_all": true,
+      "date_utc": "2026-04-03",
+      "time_utc": "17:00-18:30",
+      "location": "Virtual: Teams",
+      "rsvp_link": "https://intranet.example/rsvp/data-ai-connect-1",
+      "contact_ids": [
+        "contact_priya_datalead"
+      ],
+      "tags": [
+        "open_to_all",
+        "networking",
+        "data",
+        "AI",
+        "capability:Data & AI"
+      ]
+    },
+    {
+      "id": "event_003",
+      "title": "Cloud & Infrastructure Career Pathways Panel",
+      "description": "Explore career pathways into Cloud & Infrastructure. Hear from experienced cloud engineers about their transition stories.\n\nDate: 2026-04-07\nTime: 13:00-14:00 GMT\nFormat: Hybrid (Teams + Office)\n\nRSVP: https://intranet.example/rsvp/cloud-pathways-1",
+      "industry": null,
+      "capability": [
+        "Cloud & Infrastructure"
+      ],
+      "event_type": "development",
+      "open_to_all": true,
+      "date_utc": "2026-04-07",
+      "time_utc": "13:00-14:00",
+      "location": "Hybrid: Teams + Office",
+      "rsvp_link": "https://intranet.example/rsvp/cloud-pathways-1",
+      "contact_ids": [
+        "contact_james_cloudlead"
+      ],
+      "tags": [
+        "open_to_all",
+        "development",
+        "cloud",
+        "career_transition",
+        "capability:Cloud & Infrastructure"
+      ]
+    },
+    {
+      "id": "event_004",
+      "title": "Digital Engineering Open Networking",
+      "description": "Connect with Digital Engineering colleagues across all industries. Open to everyone.\n\nDate: 2026-04-08\nTime: 12:30-13:30 GMT\nFormat: Hybrid (Teams + Office)\n\nRSVP: https://intranet.example/rsvp/de-networking-1",
+      "industry": null,
+      "capability": [
+        "Digital Engineering"
+      ],
+      "event_type": "networking",
+      "open_to_all": true,
+      "date_utc": "2026-04-08",
+      "time_utc": "12:30-13:30",
+      "location": "Hybrid: Teams + Office",
+      "rsvp_link": "https://intranet.example/rsvp/de-networking-1",
+      "contact_ids": [
+        "contact_alex_wellbeinglead"
+      ],
+      "tags": [
+        "open_to_all",
+        "networking",
+        "digital_engineering",
+        "capability:Digital Engineering"
+      ]
+    },
+    {
+      "id": "event_005",
+      "title": "Health & Public Service Industry Showcase",
+      "description": "An open showcase highlighting key projects and career opportunities in Health & Public Service.\n\nDate: 2026-04-09\nTime: 14:00-15:30 GMT\nFormat: Virtual (Teams)\n\nRSVP: https://intranet.example/rsvp/hps-showcase-1",
+      "industry": "Health & Public Service",
+      "capability": null,
+      "event_type": "development",
+      "open_to_all": true,
+      "date_utc": "2026-04-09",
+      "time_utc": "14:00-15:30",
+      "location": "Virtual: Teams",
+      "rsvp_link": "https://intranet.example/rsvp/hps-showcase-1",
+      "contact_ids": [
+        "contact_sarah_hpslead"
+      ],
+      "tags": [
+        "open_to_all",
+        "development",
+        "industry:Health & Public Service"
+      ]
+    },
+    {
+      "id": "event_006",
+      "title": "Financial Services Tech Networking Evening",
+      "description": "Join FS colleagues for an evening of networking. Discuss tech trends and explore new capability directions.\n\nDate: 2026-04-10\nTime: 17:00-19:00 GMT\nFormat: In-Person (GCS Office)\n\nRSVP: https://intranet.example/rsvp/fs-tech-networking-1",
+      "industry": "Financial Services",
+      "capability": null,
+      "event_type": "networking",
+      "open_to_all": true,
+      "date_utc": "2026-04-10",
+      "time_utc": "17:00-19:00",
+      "location": "In-Person: GCS Office",
+      "rsvp_link": "https://intranet.example/rsvp/fs-tech-networking-1",
+      "contact_ids": [
+        "contact_lena_fslead"
+      ],
+      "tags": [
+        "open_to_all",
+        "networking",
+        "industry:Financial Services"
+      ]
+    },
+    {
+      "id": "event_007",
+      "title": "DevSecOps Fundamentals Workshop",
+      "description": "A hands-on introductory workshop exploring DevSecOps principles, CI/CD pipelines and secure coding practices. No prior experience required.\n\nDate: 2026-04-11\nTime: 10:00-12:00 GMT\nFormat: Virtual (Teams)\n\nRSVP: https://intranet.example/rsvp/devsecops-workshop-1",
+      "industry": null,
+      "capability": [
+        "DevSecOps"
+      ],
+      "event_type": "development",
+      "open_to_all": true,
+      "date_utc": "2026-04-11",
+      "time_utc": "10:00-12:00",
+      "location": "Virtual: Teams",
+      "rsvp_link": "https://intranet.example/rsvp/devsecops-workshop-1",
+      "contact_ids": [
+        "contact_omar_devseclead"
+      ],
+      "tags": [
+        "open_to_all",
+        "development",
+        "devsecops",
+        "workshop",
+        "capability:DevSecOps"
+      ]
+    },
+    {
+      "id": "event_008",
+      "title": "Women in Technology Networking Lunch",
+      "description": "An open and inclusive networking lunch for everyone interested in supporting women in technology careers.\n\nDate: 2026-04-14\nTime: 12:00-13:30 GMT\nFormat: Hybrid (Teams + Office)\n\nRSVP: https://intranet.example/rsvp/women-in-tech-1",
+      "industry": null,
+      "capability": null,
+      "event_type": "networking",
+      "open_to_all": true,
+      "date_utc": "2026-04-14",
+      "time_utc": "12:00-13:30",
+      "location": "Hybrid: Teams + Office",
+      "rsvp_link": "https://intranet.example/rsvp/women-in-tech-1",
+      "contact_ids": [
+        "contact_nina_inclusivelead"
+      ],
+      "tags": [
+        "open_to_all",
+        "networking",
+        "inclusion",
+        "women_in_tech"
+      ]
+    },
+    {
+      "id": "event_009",
+      "title": "Resources Industry Insights & Networking",
+      "description": "Open networking for those working in or curious about the Resources industry.\n\nDate: 2026-04-15\nTime: 15:00-16:30 GMT\nFormat: Virtual (Teams)\n\nRSVP: https://intranet.example/rsvp/resources-networking-1",
+      "industry": "Resources",
+      "capability": null,
+      "event_type": "networking",
+      "open_to_all": true,
+      "date_utc": "2026-04-15",
+      "time_utc": "15:00-16:30",
+      "location": "Virtual: Teams",
+      "rsvp_link": "https://intranet.example/rsvp/resources-networking-1",
+      "contact_ids": [
+        "contact_ben_resourceslead"
+      ],
+      "tags": [
+        "open_to_all",
+        "networking",
+        "industry:Resources"
+      ]
+    },
+    {
+      "id": "event_010",
+      "title": "Early Careers Development Day",
+      "description": "A full development day for early career employees. Includes capability talks, networking, and a career mapping workshop.\n\nDate: 2026-04-16\nTime: 09:00-17:00 GMT\nFormat: In-Person (GCS Office)\n\nRSVP: https://intranet.example/rsvp/early-careers-day-1",
+      "industry": null,
+      "capability": null,
+      "event_type": "development",
+      "open_to_all": true,
+      "date_utc": "2026-04-16",
+      "time_utc": "09:00-17:00",
+      "location": "In-Person: GCS Office",
+      "rsvp_link": "https://intranet.example/rsvp/early-careers-day-1",
+      "contact_ids": [
+        "contact_alex_early_careerslead"
+      ],
+      "tags": [
+        "open_to_all",
+        "development",
+        "early_careers",
+        "career_transition"
+      ]
+    },
+    {
+      "id": "event_011",
+      "title": "CMT Industry Spotlight: Future of Media",
+      "description": "Explore what's next in Communications, Media & Technology. Great for those considering a move into CMT.\n\nDate: 2026-04-17\nTime: 13:00-14:30 GMT\nFormat: Virtual (Teams)\n\nRSVP: https://intranet.example/rsvp/cmt-spotlight-1",
+      "industry": "Communications, Media & Technology",
+      "capability": null,
+      "event_type": "development",
+      "open_to_all": true,
+      "date_utc": "2026-04-17",
+      "time_utc": "13:00-14:30",
+      "location": "Virtual: Teams",
+      "rsvp_link": "https://intranet.example/rsvp/cmt-spotlight-1",
+      "contact_ids": [
+        "contact_alex_innovationlead"
+      ],
+      "tags": [
+        "open_to_all",
+        "development",
+        "industry:Communications, Media & Technology"
+      ]
+    },
+    {
+      "id": "event_012",
+      "title": "AI Ethics & Responsible AI Discussion",
+      "description": "An open discussion on the ethical dimensions of AI deployment. All capabilities and industries welcome.\n\nDate: 2026-04-22\nTime: 12:00-13:00 GMT\nFormat: Virtual (Teams)\n\nRSVP: https://intranet.example/rsvp/ai-ethics-1",
+      "industry": null,
+      "capability": [
+        "Data & AI"
+      ],
+      "event_type": "development",
+      "open_to_all": true,
+      "date_utc": "2026-04-22",
+      "time_utc": "12:00-13:00",
+      "location": "Virtual: Teams",
+      "rsvp_link": "https://intranet.example/rsvp/ai-ethics-1",
+      "contact_ids": [
+        "contact_priya_datalead"
+      ],
+      "tags": [
+        "open_to_all",
+        "development",
+        "AI",
+        "ethics",
+        "capability:Data & AI"
+      ]
+    },
+    {
+      "id": "event_013",
+      "title": "Cross-Industry Career Conversations Roundtable",
+      "description": "A structured roundtable where colleagues share their industry transition journeys. Great for anyone considering a move.\n\nDate: 2026-04-23\nTime: 16:00-17:30 GMT\nFormat: Hybrid (Teams + Office)\n\nRSVP: https://intranet.example/rsvp/cross-industry-roundtable-1",
+      "industry": null,
+      "capability": null,
+      "event_type": "networking",
+      "open_to_all": true,
+      "date_utc": "2026-04-23",
+      "time_utc": "16:00-17:30",
+      "location": "Hybrid: Teams + Office",
+      "rsvp_link": "https://intranet.example/rsvp/cross-industry-roundtable-1",
+      "contact_ids": [
+        "contact_alex_early_careerslead",
+        "contact_sarah_hpslead"
+      ],
+      "tags": [
+        "open_to_all",
+        "networking",
+        "career_transition",
+        "cross_industry"
+      ]
+    },
+    {
+      "id": "event_014",
+      "title": "Products Industry Meet & Greet",
+      "description": "Meet the Products industry group leadership. Informal networking open to everyone interested in consumer goods, retail and life sciences consulting.\n\nDate: 2026-04-24\nTime: 12:30-13:30 GMT\nFormat: Hybrid (Teams + Office)\n\nRSVP: https://intranet.example/rsvp/products-meetgreet-1",
+      "industry": "Products",
+      "capability": null,
+      "event_type": "networking",
+      "open_to_all": true,
+      "date_utc": "2026-04-24",
+      "time_utc": "12:30-13:30",
+      "location": "Hybrid: Teams + Office",
+      "rsvp_link": "https://intranet.example/rsvp/products-meetgreet-1",
+      "contact_ids": [
+        "contact_fatima_productslead"
+      ],
+      "tags": [
+        "open_to_all",
+        "networking",
+        "industry:Products"
+      ]
+    },
+    {
+      "id": "event_015",
+      "title": "Cloud Certification Study Group Kickoff",
+      "description": "Launch session for a study group targeting AWS and Azure certifications. Open to all capability areas.\n\nDate: 2026-04-25\nTime: 09:00-10:00 GMT\nFormat: Virtual (Teams)\n\nRSVP: https://intranet.example/rsvp/cloud-cert-study-1",
+      "industry": null,
+      "capability": [
+        "Cloud & Infrastructure"
+      ],
+      "event_type": "development",
+      "open_to_all": true,
+      "date_utc": "2026-04-25",
+      "time_utc": "09:00-10:00",
+      "location": "Virtual: Teams",
+      "rsvp_link": "https://intranet.example/rsvp/cloud-cert-study-1",
+      "contact_ids": [
+        "contact_james_cloudlead"
+      ],
+      "tags": [
+        "open_to_all",
+        "development",
+        "cloud",
+        "certification",
+        "capability:Cloud & Infrastructure"
+      ]
+    },
+    {
+      "id": "event_016",
+      "title": "Inclusive Leadership Networking Breakfast",
+      "description": "An open networking breakfast exploring inclusive leadership themes. All grades and industry groups welcome.\n\nDate: 2026-04-28\nTime: 08:00-09:00 GMT\nFormat: In-Person (GCS Office)\n\nRSVP: https://intranet.example/rsvp/inclusive-leadership-1",
+      "industry": null,
+      "capability": null,
+      "event_type": "networking",
+      "open_to_all": true,
+      "date_utc": "2026-04-28",
+      "time_utc": "08:00-09:00",
+      "location": "In-Person: GCS Office",
+      "rsvp_link": "https://intranet.example/rsvp/inclusive-leadership-1",
+      "contact_ids": [
+        "contact_nina_inclusivelead"
+      ],
+      "tags": [
+        "open_to_all",
+        "networking",
+        "inclusion",
+        "leadership"
+      ]
+    },
+    {
+      "id": "event_017",
+      "title": "Cyber Threat Intelligence Briefing",
+      "description": "An open threat intelligence briefing covering current cyber risks facing key sectors. Suitable for all backgrounds, no deep technical knowledge required.\n\nDate: 2026-04-29\nTime: 14:00-15:00 GMT\nFormat: Virtual (Teams)\n\nRSVP: https://intranet.example/rsvp/cyber-threat-briefing-1",
+      "industry": null,
+      "capability": [
+        "Cyber Security"
+      ],
+      "event_type": "development",
+      "open_to_all": true,
+      "date_utc": "2026-04-29",
+      "time_utc": "14:00-15:00",
+      "location": "Virtual: Teams",
+      "rsvp_link": "https://intranet.example/rsvp/cyber-threat-briefing-1",
+      "contact_ids": [
+        "contact_technology_lead",
+        "contact_alex_cyberlead"
+      ],
+      "tags": [
+        "open_to_all",
+        "development",
+        "cyber",
+        "threat_intelligence",
+        "capability:Cyber Security"
+      ]
+    },
+    {
+      "id": "event_018",
+      "title": "FS to Cyber Transition: Practitioner Fireside Chat",
+      "description": "Hear first-hand from practitioners who transitioned from Financial Services into Cyber Security. Q&A included.\n\nDate: 2026-05-01\nTime: 12:00-13:00 GMT\nFormat: Virtual (Teams)\n\nRSVP: https://intranet.example/rsvp/fs-cyber-chat-1",
+      "industry": "Financial Services",
+      "capability": [
+        "Cyber Security"
+      ],
+      "event_type": "development",
+      "open_to_all": true,
+      "date_utc": "2026-05-01",
+      "time_utc": "12:00-13:00",
+      "location": "Virtual: Teams",
+      "rsvp_link": "https://intranet.example/rsvp/fs-cyber-chat-1",
+      "contact_ids": [
+        "contact_lena_fslead",
+        "contact_alex_cyberlead"
+      ],
+      "tags": [
+        "open_to_all",
+        "development",
+        "career_transition",
+        "cyber",
+        "industry:Financial Services"
+      ]
+    },
+    {
+      "id": "event_019",
+      "title": "Data & AI Skills Taster: Python for Beginners",
+      "description": "A beginner-friendly taster session introducing Python basics for data work. No coding experience needed.\n\nDate: 2026-05-06\nTime: 10:00-11:30 GMT\nFormat: Virtual (Teams)\n\nRSVP: https://intranet.example/rsvp/python-taster-1",
+      "industry": null,
+      "capability": [
+        "Data & AI"
+      ],
+      "event_type": "development",
+      "open_to_all": true,
+      "date_utc": "2026-05-06",
+      "time_utc": "10:00-11:30",
+      "location": "Virtual: Teams",
+      "rsvp_link": "https://intranet.example/rsvp/python-taster-1",
+      "contact_ids": [
+        "contact_priya_datalead"
+      ],
+      "tags": [
+        "open_to_all",
+        "development",
+        "data",
+        "AI",
+        "python",
+        "beginner",
+        "capability:Data & AI"
+      ]
+    },
+    {
+      "id": "event_020",
+      "title": "HPS to Digital Engineering: Career Transition Panel",
+      "description": "Hear from colleagues who moved from Health & Public Service into Digital Engineering. Open to all.\n\nDate: 2026-05-07\nTime: 13:00-14:00 GMT\nFormat: Hybrid (Teams + Office)\n\nRSVP: https://intranet.example/rsvp/hps-de-panel-1",
+      "industry": "Health & Public Service",
+      "capability": [
+        "Digital Engineering"
+      ],
+      "event_type": "development",
+      "open_to_all": true,
+      "date_utc": "2026-05-07",
+      "time_utc": "13:00-14:00",
+      "location": "Hybrid: Teams + Office",
+      "rsvp_link": "https://intranet.example/rsvp/hps-de-panel-1",
+      "contact_ids": [
+        "contact_alex_wellbeinglead",
+        "contact_sarah_hpslead"
+      ],
+      "tags": [
+        "open_to_all",
+        "development",
+        "career_transition",
+        "industry:Health & Public Service",
+        "capability:Digital Engineering"
+      ]
+    },
+    {
+      "id": "event_021",
+      "title": "Resources & Sustainability Innovation Networking",
+      "description": "Networking for colleagues exploring sustainability, energy transition and natural resources consulting. All industries welcome.\n\nDate: 2026-05-08\nTime: 15:00-16:30 GMT\nFormat: Virtual (Teams)\n\nRSVP: https://intranet.example/rsvp/resources-sustainability-1",
+      "industry": "Resources",
+      "capability": null,
+      "event_type": "networking",
+      "open_to_all": true,
+      "date_utc": "2026-05-08",
+      "time_utc": "15:00-16:30",
+      "location": "Virtual: Teams",
+      "rsvp_link": "https://intranet.example/rsvp/resources-sustainability-1",
+      "contact_ids": [
+        "contact_ben_resourceslead"
+      ],
+      "tags": [
+        "open_to_all",
+        "networking",
+        "industry:Resources",
+        "sustainability"
+      ]
+    },
+    {
+      "id": "event_022",
+      "title": "Mentor Speed Networking: All Capabilities",
+      "description": "A rapid-format mentoring networking event connecting mentees with mentors across all capability areas. Open to all grades.\n\nDate: 2026-05-12\nTime: 17:00-18:30 GMT\nFormat: In-Person (Edinburgh Office)\n\nRSVP: https://intranet.example/rsvp/mentor-speed-networking-1",
+      "industry": null,
+      "capability": null,
+      "event_type": "networking",
+      "open_to_all": true,
+      "date_utc": "2026-05-12",
+      "time_utc": "17:00-18:30",
+      "location": "In-Person: Edinburgh Office",
+      "rsvp_link": "https://intranet.example/rsvp/mentor-speed-networking-1",
+      "contact_ids": [
+        "contact_alex_early_careerslead",
+        "contact_nina_inclusivelead"
+      ],
+      "tags": [
+        "open_to_all",
+        "networking",
+        "mentoring",
+        "career_development"
+      ]
+    },
+    {
+      "id": "event_023",
+      "title": "Digital Engineering: Modern Architecture Talk",
+      "description": "An open knowledge-sharing session on modern software architecture patterns including microservices, event-driven design and API-first development.\n\nDate: 2026-05-13\nTime: 12:00-13:00 GMT\nFormat: Virtual (Teams)\n\nRSVP: https://intranet.example/rsvp/de-architecture-1",
+      "industry": null,
+      "capability": [
+        "Digital Engineering"
+      ],
+      "event_type": "development",
+      "open_to_all": true,
+      "date_utc": "2026-05-13",
+      "time_utc": "12:00-13:00",
+      "location": "Virtual: Teams",
+      "rsvp_link": "https://intranet.example/rsvp/de-architecture-1",
+      "contact_ids": [
+        "contact_alex_wellbeinglead"
+      ],
+      "tags": [
+        "open_to_all",
+        "development",
+        "digital_engineering",
+        "architecture",
+        "capability:Digital Engineering"
+      ]
+    },
+    {
+      "id": "event_024",
+      "title": "CMT & Products Joint Networking Mixer",
+      "description": "A joint networking mixer for colleagues in Communications, Media & Technology and Products industry groups. All welcome.\n\nDate: 2026-05-14\nTime: 17:30-19:00 GMT\nFormat: In-Person (GCS Office)\n\nRSVP: https://intranet.example/rsvp/cmt-products-mixer-1",
+      "industry": null,
+      "capability": null,
+      "event_type": "networking",
+      "open_to_all": true,
+      "date_utc": "2026-05-14",
+      "time_utc": "17:30-19:00",
+      "location": "In-Person: GCS Office",
+      "rsvp_link": "https://intranet.example/rsvp/cmt-products-mixer-1",
+      "contact_ids": [
+        "contact_alex_innovationlead",
+        "contact_fatima_productslead"
+      ],
+      "tags": [
+        "open_to_all",
+        "networking",
+        "industry:Communications, Media & Technology",
+        "industry:Products"
+      ]
+    },
+    {
+      "id": "event_025",
+      "title": "FS Cyber Risk Roundtable",
+      "description": "A development roundtable exploring cyber risk management in Financial Services. Open to all with an interest in FS or cyber.\n\nDate: 2026-05-15\nTime: 10:00-11:30 GMT\nFormat: Hybrid (Teams + Office)\n\nRSVP: https://intranet.example/rsvp/fs-cyber-risk-1",
+      "industry": "Financial Services",
+      "capability": [
+        "Cyber Security"
+      ],
+      "event_type": "development",
+      "open_to_all": true,
+      "date_utc": "2026-05-15",
+      "time_utc": "10:00-11:30",
+      "location": "Hybrid: Teams + Office",
+      "rsvp_link": "https://intranet.example/rsvp/fs-cyber-risk-1",
+      "contact_ids": [
+        "contact_lena_fslead",
+        "contact_technology_lead"
+      ],
+      "tags": [
+        "open_to_all",
+        "development",
+        "cyber",
+        "risk",
+        "industry:Financial Services",
+        "capability:Cyber Security"
+      ]
+    },
+    {
+      "id": "event_026",
+      "title": "Cloud & Cyber Integration Workshop",
+      "description": "A cross-capability workshop exploring how Cloud & Infrastructure and Cyber Security intersect in modern enterprise environments.\n\nDate: 2026-05-19\nTime: 09:00-11:00 GMT\nFormat: Virtual (Teams)\n\nRSVP: https://intranet.example/rsvp/cloud-cyber-workshop-1",
+      "industry": null,
+      "capability": [
+        "Cloud & Infrastructure",
+        "Cyber Security"
+      ],
+      "event_type": "development",
+      "open_to_all": true,
+      "date_utc": "2026-05-19",
+      "time_utc": "09:00-11:00",
+      "location": "Virtual: Teams",
+      "rsvp_link": "https://intranet.example/rsvp/cloud-cyber-workshop-1",
+      "contact_ids": [
+        "contact_james_cloudlead",
+        "contact_alex_cyberlead"
+      ],
+      "tags": [
+        "open_to_all",
+        "development",
+        "cloud",
+        "cyber",
+        "workshop"
+      ]
+    },
+    {
+      "id": "event_027",
+      "title": "Products Industry: Data-Driven Consumer Insights Talk",
+      "description": "An open talk on how data and analytics are driving consumer insight in the Products industry.\n\nDate: 2026-05-20\nTime: 13:00-14:00 GMT\nFormat: Virtual (Teams)\n\nRSVP: https://intranet.example/rsvp/products-data-talk-1",
+      "industry": "Products",
+      "capability": [
+        "Data & AI"
+      ],
+      "event_type": "development",
+      "open_to_all": true,
+      "date_utc": "2026-05-20",
+      "time_utc": "13:00-14:00",
+      "location": "Virtual: Teams",
+      "rsvp_link": "https://intranet.example/rsvp/products-data-talk-1",
+      "contact_ids": [
+        "contact_fatima_productslead",
+        "contact_priya_datalead"
+      ],
+      "tags": [
+        "open_to_all",
+        "development",
+        "data",
+        "industry:Products",
+        "capability:Data & AI"
+      ]
+    },
+    {
+      "id": "event_028",
+      "title": "New Joiner Cross-Capability Networking",
+      "description": "A welcoming networking event for colleagues who joined in the last 6 months. Connect across all industries and capabilities.\n\nDate: 2026-05-21\nTime: 17:00-18:30 GMT\nFormat: In-Person (GCS Office)\n\nRSVP: https://intranet.example/rsvp/new-joiner-networking-1",
+      "industry": null,
+      "capability": null,
+      "event_type": "networking",
+      "open_to_all": true,
+      "date_utc": "2026-05-21",
+      "time_utc": "17:00-18:30",
+      "location": "In-Person: GCS Office",
+      "rsvp_link": "https://intranet.example/rsvp/new-joiner-networking-1",
+      "contact_ids": [
+        "contact_alex_early_careerslead"
+      ],
+      "tags": [
+        "open_to_all",
+        "networking",
+        "new_joiner",
+        "onboarding"
+      ]
+    },
+    {
+      "id": "event_029",
+      "title": "DevSecOps & Digital Engineering Collaboration Forum",
+      "description": "A forum exploring how DevSecOps practices integrate within Digital Engineering delivery. Open to all. Practical case studies shared.\n\nDate: 2026-05-22\nTime: 10:00-11:30 GMT\nFormat: Hybrid (Teams + Office)\n\nRSVP: https://intranet.example/rsvp/devsecops-de-forum-1",
+      "industry": null,
+      "capability": [
+        "DevSecOps",
+        "Digital Engineering"
+      ],
+      "event_type": "development",
+      "open_to_all": true,
+      "date_utc": "2026-05-22",
+      "time_utc": "10:00-11:30",
+      "location": "Hybrid: Teams + Office",
+      "rsvp_link": "https://intranet.example/rsvp/devsecops-de-forum-1",
+      "contact_ids": [
+        "contact_omar_devseclead",
+        "contact_alex_wellbeinglead"
+      ],
+      "tags": [
+        "open_to_all",
+        "development",
+        "devsecops",
+        "digital_engineering"
+      ]
+    },
+    {
+      "id": "event_030",
+      "title": "HPS Cyber & Data Innovation Showcase",
+      "description": "Explore how Cyber Security and Data & AI are being deployed across NHS, central government and public sector. Open networking after.\n\nDate: 2026-05-27\nTime: 13:00-15:00 GMT\nFormat: Hybrid (Teams + Office)\n\nRSVP: https://intranet.example/rsvp/hps-cyber-data-showcase-1",
+      "industry": "Health & Public Service",
+      "capability": [
+        "Cyber Security",
+        "Data & AI"
+      ],
+      "event_type": "development",
+      "open_to_all": true,
+      "date_utc": "2026-05-27",
+      "time_utc": "13:00-15:00",
+      "location": "Hybrid: Teams + Office",
+      "rsvp_link": "https://intranet.example/rsvp/hps-cyber-data-showcase-1",
+      "contact_ids": [
+        "contact_sarah_hpslead",
+        "contact_technology_lead",
+        "contact_priya_datalead"
+      ],
+      "tags": [
+        "open_to_all",
+        "development",
+        "cyber",
+        "data",
+        "industry:Health & Public Service"
+      ]
+    },
+    {
+      "id": "event_031",
+      "title": "Cyber Red Team Insights Briefing",
+      "description": "An insight session on offensive security and red team exercises. Restricted to Cyber Security capability colleagues to ensure a technical peer discussion.\n\nDate: 2026-04-15\nTime: 10:00-11:30 GMT\nFormat: Virtual (Teams - invite required)\n\nContact your Cyber Community Lead to register.",
+      "industry": null,
+      "capability": [
+        "Cyber Security"
+      ],
+      "event_type": "development",
+      "open_to_all": false,
+      "date_utc": "2026-04-15",
+      "time_utc": "10:00-11:30",
+      "location": "Virtual: Teams (invite required)",
+      "rsvp_link": null,
+      "contact_ids": [
+        "contact_alex_cyberlead",
+        "contact_technology_lead"
+      ],
+      "tags": [
+        "capability_restricted",
+        "cyber",
+        "red_team",
+        "capability:Cyber Security"
+      ]
+    },
+    {
+      "id": "event_032",
+      "title": "FS Senior Stakeholder Engagement Workshop",
+      "description": "A closed workshop for Financial Services senior practitioners covering stakeholder management and executive engagement strategy.\n\nDate: 2026-04-22\nTime: 09:00-12:00 GMT\nFormat: In-Person (GCS Office - invite only)\n\nContact your FS People Lead to register.",
+      "industry": "Financial Services",
+      "capability": null,
+      "event_type": "development",
+      "open_to_all": false,
+      "date_utc": "2026-04-22",
+      "time_utc": "09:00-12:00",
+      "location": "In-Person: GCS Office (invite only)",
+      "rsvp_link": null,
+      "contact_ids": [
+        "contact_lena_fslead"
+      ],
+      "tags": [
+        "invite_only",
+        "industry:Financial Services",
+        "senior",
+        "leadership"
+      ]
+    },
+    {
+      "id": "event_033",
+      "title": "Cloud Architecture Technical Deep Dive",
+      "description": "A technical deep dive into advanced cloud architecture patterns for experienced Cloud & Infrastructure practitioners.\n\nDate: 2026-04-23\nTime: 10:00-12:00 GMT\nFormat: Virtual (Teams - registered practitioners only)\n\nContact your Cloud Lead to register.",
+      "industry": null,
+      "capability": [
+        "Cloud & Infrastructure"
+      ],
+      "event_type": "development",
+      "open_to_all": false,
+      "date_utc": "2026-04-23",
+      "time_utc": "10:00-12:00",
+      "location": "Virtual: Teams (registered practitioners only)",
+      "rsvp_link": null,
+      "contact_ids": [
+        "contact_james_cloudlead"
+      ],
+      "tags": [
+        "capability_restricted",
+        "cloud",
+        "architecture",
+        "advanced",
+        "capability:Cloud & Infrastructure"
+      ]
+    },
+    {
+      "id": "event_034",
+      "title": "HPS People Lead Talent Review Forum",
+      "description": "A closed talent review forum for Health & Public Service People Leads to discuss talent pipeline, promotions and performance conversations.\n\nDate: 2026-05-05\nTime: 14:00-16:00 GMT\nFormat: In-Person (GCS Office - People Leads only)",
+      "industry": "Health & Public Service",
+      "capability": null,
+      "event_type": "development",
+      "open_to_all": false,
+      "date_utc": "2026-05-05",
+      "time_utc": "14:00-16:00",
+      "location": "In-Person: GCS Office (People Leads only)",
+      "rsvp_link": null,
+      "contact_ids": [
+        "contact_sarah_hpslead"
+      ],
+      "tags": [
+        "people_leads_only",
+        "industry:Health & Public Service",
+        "talent_review"
+      ]
+    },
+    {
+      "id": "event_035",
+      "title": "DevSecOps Advanced Pipeline Lab",
+      "description": "A hands-on advanced lab for experienced DevSecOps practitioners covering pipeline hardening, SAST/DAST tooling and secrets management.\n\nDate: 2026-05-13\nTime: 09:00-13:00 GMT\nFormat: In-Person (GCS Office - experienced practitioners only)",
+      "industry": null,
+      "capability": [
+        "DevSecOps"
+      ],
+      "event_type": "development",
+      "open_to_all": false,
+      "date_utc": "2026-05-13",
+      "time_utc": "09:00-13:00",
+      "location": "In-Person: GCS Office (experienced practitioners only)",
+      "rsvp_link": null,
+      "contact_ids": [
+        "contact_omar_devseclead"
+      ],
+      "tags": [
+        "capability_restricted",
+        "devsecops",
+        "advanced",
+        "lab",
+        "capability:DevSecOps"
+      ]
+    },
+    {
+      "id": "event_036",
+      "title": "Data & AI Model Governance Workshop",
+      "description": "A closed workshop for Data & AI practitioners and risk leads covering model governance frameworks, bias testing and regulatory considerations.\n\nDate: 2026-05-15\nTime: 10:00-12:30 GMT\nFormat: Virtual (Teams - registered practitioners only)",
+      "industry": null,
+      "capability": [
+        "Data & AI"
+      ],
+      "event_type": "development",
+      "open_to_all": false,
+      "date_utc": "2026-05-15",
+      "time_utc": "10:00-12:30",
+      "location": "Virtual: Teams (registered practitioners only)",
+      "rsvp_link": null,
+      "contact_ids": [
+        "contact_priya_datalead"
+      ],
+      "tags": [
+        "capability_restricted",
+        "data",
+        "AI",
+        "governance",
+        "capability:Data & AI"
+      ]
+    },
+    {
+      "id": "event_037",
+      "title": "Resources Leadership Strategy Offsite",
+      "description": "An annual leadership strategy offsite for Resources industry group directors and above. Invitation only.\n\nDate: 2026-05-19\nFormat: In-Person (offsite venue - invitation only)",
+      "industry": "Resources",
+      "capability": null,
+      "event_type": "development",
+      "open_to_all": false,
+      "date_utc": "2026-05-19",
+      "time_utc": "All day",
+      "location": "In-Person: offsite venue (invitation only)",
+      "rsvp_link": null,
+      "contact_ids": [
+        "contact_ben_resourceslead"
+      ],
+      "tags": [
+        "invite_only",
+        "leadership",
+        "industry:Resources",
+        "directors_above"
+      ]
+    },
+    {
+      "id": "event_038",
+      "title": "Products Sector Client Strategy Workshop",
+      "description": "A closed client strategy workshop for senior Products industry consultants. Focus on FMCG and Life Sciences client landscape.\n\nDate: 2026-05-21\nTime: 09:30-17:00 GMT\nFormat: In-Person (GCS Office - senior consultants only)",
+      "industry": "Products",
+      "capability": null,
+      "event_type": "development",
+      "open_to_all": false,
+      "date_utc": "2026-05-21",
+      "time_utc": "09:30-17:00",
+      "location": "In-Person: GCS Office (senior consultants only)",
+      "rsvp_link": null,
+      "contact_ids": [
+        "contact_fatima_productslead"
+      ],
+      "tags": [
+        "invite_only",
+        "industry:Products",
+        "senior",
+        "client_strategy"
+      ]
+    },
+    {
+      "id": "event_039",
+      "title": "CMT Executive Briefing: Digital Regulation",
+      "description": "A confidential executive briefing on forthcoming digital regulation changes affecting CMT clients. Director level and above.\n\nDate: 2026-05-27\nTime: 09:00-10:30 GMT\nFormat: Virtual (Teams - director level and above)",
+      "industry": "Communications, Media & Technology",
+      "capability": null,
+      "event_type": "development",
+      "open_to_all": false,
+      "date_utc": "2026-05-27",
+      "time_utc": "09:00-10:30",
+      "location": "Virtual: Teams (director level and above)",
+      "rsvp_link": null,
+      "contact_ids": [
+        "contact_alex_innovationlead"
+      ],
+      "tags": [
+        "invite_only",
+        "industry:Communications, Media & Technology",
+        "executive",
+        "regulation"
+      ]
+    },
+    {
+      "id": "event_040",
+      "title": "Digital Engineering Guild: Architecture Guild Meeting",
+      "description": "A closed Architecture Guild meeting for senior Digital Engineering practitioners to align on delivery standards and architectural direction.\n\nDate: 2026-06-03\nTime: 10:00-11:30 GMT\nFormat: Hybrid (Teams + Office - guild members only)",
+      "industry": null,
+      "capability": [
+        "Digital Engineering"
+      ],
+      "event_type": "development",
+      "open_to_all": false,
+      "date_utc": "2026-06-03",
+      "time_utc": "10:00-11:30",
+      "location": "Hybrid: Teams + Office (guild members only)",
+      "rsvp_link": null,
+      "contact_ids": [
+        "contact_alex_wellbeinglead"
+      ],
+      "tags": [
+        "guild_only",
+        "digital_engineering",
+        "architecture",
+        "capability:Digital Engineering"
+      ]
+    },
+    {
+      "id": "event_041",
+      "title": "HPS to Cloud: Industry Transition Networking",
+      "description": "Networking for HPS colleagues exploring a move into Cloud & Infrastructure. Hear from those who have already made the move.\n\nDate: 2026-04-29\nTime: 13:00-14:00 GMT\nFormat: Virtual (Teams)\n\nRSVP: https://intranet.example/rsvp/hps-cloud-networking-1",
+      "industry": "Health & Public Service",
+      "capability": [
+        "Cloud & Infrastructure"
+      ],
+      "event_type": "networking",
+      "open_to_all": true,
+      "date_utc": "2026-04-29",
+      "time_utc": "13:00-14:00",
+      "location": "Virtual: Teams",
+      "rsvp_link": "https://intranet.example/rsvp/hps-cloud-networking-1",
+      "contact_ids": [
+        "contact_james_cloudlead",
+        "contact_sarah_hpslead"
+      ],
+      "tags": [
+        "open_to_all",
+        "networking",
+        "career_transition",
+        "industry:Health & Public Service",
+        "capability:Cloud & Infrastructure"
+      ]
+    },
+    {
+      "id": "event_042",
+      "title": "FS to Data & AI: Career Pathways Session",
+      "description": "An open session exploring career pathways from Financial Services into Data & AI roles. Case studies and Q&A included.\n\nDate: 2026-05-05\nTime: 12:00-13:00 GMT\nFormat: Virtual (Teams)\n\nRSVP: https://intranet.example/rsvp/fs-data-pathways-1",
+      "industry": "Financial Services",
+      "capability": [
+        "Data & AI"
+      ],
+      "event_type": "development",
+      "open_to_all": true,
+      "date_utc": "2026-05-05",
+      "time_utc": "12:00-13:00",
+      "location": "Virtual: Teams",
+      "rsvp_link": "https://intranet.example/rsvp/fs-data-pathways-1",
+      "contact_ids": [
+        "contact_lena_fslead",
+        "contact_priya_datalead"
+      ],
+      "tags": [
+        "open_to_all",
+        "development",
+        "career_transition",
+        "industry:Financial Services",
+        "capability:Data & AI"
+      ]
+    },
+    {
+      "id": "event_043",
+      "title": "Capability Curiosity Hour: Ask a Practitioner",
+      "description": "A monthly open Q&A where anyone can submit questions to practitioners across all five capabilities.\n\nDate: 2026-05-06\nTime: 17:00-18:00 GMT\nFormat: Virtual (Teams)\n\nRSVP: https://intranet.example/rsvp/capability-curiosity-may-1",
+      "industry": null,
+      "capability": null,
+      "event_type": "networking",
+      "open_to_all": true,
+      "date_utc": "2026-05-06",
+      "time_utc": "17:00-18:00",
+      "location": "Virtual: Teams",
+      "rsvp_link": "https://intranet.example/rsvp/capability-curiosity-may-1",
+      "contact_ids": [
+        "contact_alex_early_careerslead"
+      ],
+      "tags": [
+        "open_to_all",
+        "networking",
+        "career_exploration",
+        "career_transition"
+      ]
+    },
+    {
+      "id": "event_044",
+      "title": "CMT to Cyber Transition Q&A",
+      "description": "An open Q&A for Communications, Media & Technology colleagues curious about transitioning into Cyber Security. Facilitated by Cyber leads.\n\nDate: 2026-05-09\nTime: 13:00-14:00 GMT\nFormat: Virtual (Teams)\n\nRSVP: https://intranet.example/rsvp/cmt-cyber-qa-1",
+      "industry": "Communications, Media & Technology",
+      "capability": [
+        "Cyber Security"
+      ],
+      "event_type": "networking",
+      "open_to_all": true,
+      "date_utc": "2026-05-09",
+      "time_utc": "13:00-14:00",
+      "location": "Virtual: Teams",
+      "rsvp_link": "https://intranet.example/rsvp/cmt-cyber-qa-1",
+      "contact_ids": [
+        "contact_technology_lead",
+        "contact_alex_innovationlead"
+      ],
+      "tags": [
+        "open_to_all",
+        "networking",
+        "career_transition",
+        "industry:Communications, Media & Technology",
+        "capability:Cyber Security"
+      ]
+    },
+    {
+      "id": "event_045",
+      "title": "Grad Cohort Technology Networking Social",
+      "description": "An informal social and networking evening for graduate cohort members across all capability streams.\n\nDate: 2026-05-28\nTime: 18:00-20:00 GMT\nFormat: In-Person (GCS Office)\n\nRSVP: https://intranet.example/rsvp/grad-networking-may-1",
+      "industry": null,
+      "capability": null,
+      "event_type": "networking",
+      "open_to_all": true,
+      "date_utc": "2026-05-28",
+      "time_utc": "18:00-20:00",
+      "location": "In-Person: GCS Office",
+      "rsvp_link": "https://intranet.example/rsvp/grad-networking-may-1",
+      "contact_ids": [
+        "contact_alex_early_careerslead"
+      ],
+      "tags": [
+        "open_to_all",
+        "networking",
+        "graduate",
+        "early_careers"
+      ]
+    },
+    {
+      "id": "event_046",
+      "title": "Resources to Digital Engineering: Skills Crossover Session",
+      "description": "Explore how skills from the Resources industry translate into Digital Engineering roles. Open panel and Q&A format.\n\nDate: 2026-06-02\nTime: 12:00-13:00 GMT\nFormat: Virtual (Teams)\n\nRSVP: https://intranet.example/rsvp/resources-de-crossover-1",
+      "industry": "Resources",
+      "capability": [
+        "Digital Engineering"
+      ],
+      "event_type": "development",
+      "open_to_all": true,
+      "date_utc": "2026-06-02",
+      "time_utc": "12:00-13:00",
+      "location": "Virtual: Teams",
+      "rsvp_link": "https://intranet.example/rsvp/resources-de-crossover-1",
+      "contact_ids": [
+        "contact_ben_resourceslead",
+        "contact_alex_wellbeinglead"
+      ],
+      "tags": [
+        "open_to_all",
+        "development",
+        "career_transition",
+        "industry:Resources",
+        "capability:Digital Engineering"
+      ]
+    },
+    {
+      "id": "event_047",
+      "title": "Security Awareness Month: Cyber Kickoff Event",
+      "description": "Open kickoff session for Accenture's internal Security Awareness Month. Intro to key campaigns, resources and how to get involved.\n\nDate: 2026-06-03\nTime: 11:00-12:00 GMT\nFormat: Virtual (Teams)\n\nRSVP: https://intranet.example/rsvp/security-awareness-kickoff-1",
+      "industry": null,
+      "capability": [
+        "Cyber Security"
+      ],
+      "event_type": "development",
+      "open_to_all": true,
+      "date_utc": "2026-06-03",
+      "time_utc": "11:00-12:00",
+      "location": "Virtual: Teams",
+      "rsvp_link": "https://intranet.example/rsvp/security-awareness-kickoff-1",
+      "contact_ids": [
+        "contact_alex_cyberlead"
+      ],
+      "tags": [
+        "open_to_all",
+        "development",
+        "cyber",
+        "security_awareness",
+        "capability:Cyber Security"
+      ]
+    },
+    {
+      "id": "event_048",
+      "title": "All Capabilities Social: Summer Networking Evening",
+      "description": "The annual summer networking evening open to all Accenture colleagues. Connect across industries and capabilities in a relaxed setting.\n\nDate: 2026-06-10\nTime: 17:30-20:00 GMT\nFormat: In-Person (GCS Office)\n\nRSVP: https://intranet.example/rsvp/summer-networking-2026",
+      "industry": null,
+      "capability": null,
+      "event_type": "networking",
+      "open_to_all": true,
+      "date_utc": "2026-06-10",
+      "time_utc": "17:30-20:00",
+      "location": "In-Person: GCS Office",
+      "rsvp_link": "https://intranet.example/rsvp/summer-networking-2026",
+      "contact_ids": [
+        "contact_nina_inclusivelead",
+        "contact_alex_early_careerslead"
+      ],
+      "tags": [
+        "open_to_all",
+        "networking",
+        "all_capabilities",
+        "all_industries",
+        "social"
+      ]
+    },
+    {
+      "id": "event_049",
+      "title": "Transitioning Professionals: Getting Back to Tech",
+      "description": "A supportive development session for professionals returning to technology roles or re-entering the workforce. All industries and capabilities welcome.\n\nDate: 2026-06-11\nTime: 10:00-11:30 GMT\nFormat: Virtual (Teams)\n\nRSVP: https://intranet.example/rsvp/returners-tech-1",
+      "industry": null,
+      "capability": null,
+      "event_type": "development",
+      "open_to_all": true,
+      "date_utc": "2026-06-11",
+      "time_utc": "10:00-11:30",
+      "location": "Virtual: Teams",
+      "rsvp_link": "https://intranet.example/rsvp/returners-tech-1",
+      "contact_ids": [
+        "contact_nina_inclusivelead",
+        "contact_alex_early_careerslead"
+      ],
+      "tags": [
+        "open_to_all",
+        "development",
+        "returners",
+        "career_transition",
+        "inclusion"
+      ]
+    },
+    {
+      "id": "event_050",
+      "title": "DevSecOps & Cloud Networking Mixer",
+      "description": "A cross-capability networking mixer for DevSecOps and Cloud & Infrastructure practitioners and those keen to explore both areas.\n\nDate: 2026-06-16\nTime: 16:30-18:00 GMT\nFormat: Hybrid (Teams + Office)\n\nRSVP: https://intranet.example/rsvp/devsecops-cloud-mixer-1",
+      "industry": null,
+      "capability": [
+        "DevSecOps",
+        "Cloud & Infrastructure"
+      ],
+      "event_type": "networking",
+      "open_to_all": true,
+      "date_utc": "2026-06-16",
+      "time_utc": "16:30-18:00",
+      "location": "Hybrid: Teams + Office",
+      "rsvp_link": "https://intranet.example/rsvp/devsecops-cloud-mixer-1",
+      "contact_ids": [
+        "contact_omar_devseclead",
+        "contact_james_cloudlead"
+      ],
+      "tags": [
+        "open_to_all",
+        "networking",
+        "devsecops",
+        "cloud",
+        "capability:DevSecOps",
+        "capability:Cloud & Infrastructure"
+      ]
+    },
+    {
+      "id": "event_051",
+      "title": "Morning Run Club - St Stephen's Green",
+      "description": "Join colleagues for an easy-paced morning run around St Stephen's Green. All fitness levels welcome - we run together, no one gets left behind.\n\nDate: 2026-04-05\nTime: 07:30-08:30 GMT\nFormat: In-Person (Meet at St Stephen's Green)\n\nRSVP: https://intranet.example/rsvp/run-club-ststephensgreen-1",
+      "industry": null,
+      "capability": null,
+      "event_type": "wellbeing",
+      "open_to_all": true,
+      "date_utc": "2026-04-05",
+      "time_utc": "07:30-08:30",
+      "location": "In-Person: St Stephen's Green, London",
+      "rsvp_link": "https://intranet.example/rsvp/run-club-ststephensgreen-1",
+      "contact_ids": ["contact_alex_wellbeinglead"],
+      "tags": ["open_to_all", "wellbeing", "running", "social", "in_person"]
+    },
+    {
+      "id": "event_052",
+      "title": "Coffee Morning - Connect Over Caffeine",
+      "description": "A relaxed informal coffee morning for anyone who fancies a chat. Bring your questions, your ideas, or just yourself. No agenda - just good coffee and good people.\n\nDate: 2026-04-12\nTime: 09:00-10:00 GMT\nFormat: In-Person (London Office - Ground Floor Café)\n\nRSVP: https://intranet.example/rsvp/coffee-morning-apr-1",
+      "industry": null,
+      "capability": null,
+      "event_type": "networking",
+      "open_to_all": true,
+      "date_utc": "2026-04-12",
+      "time_utc": "09:00-10:00",
+      "location": "In-Person: GCS Canteen",
+      "rsvp_link": "https://intranet.example/rsvp/coffee-morning-apr-1",
+      "contact_ids": ["contact_nina_inclusivelead"],
+      "tags": ["open_to_all", "networking", "coffee", "social", "informal"]
+    },
+    {
+      "id": "event_053",
+      "title": "Lunchtime Spin Class - All Levels",
+      "description": "A high-energy 45-minute spin class at lunchtime. Bikes are bookable on arrival - just show up in kit and ready to ride. Instructor-led with a pumping playlist.\n\nDate: 2026-04-17\nTime: 12:15-13:00 GMT\nFormat: In-Person (London Office - Basement Gym)\n\nRSVP: https://intranet.example/rsvp/spin-class-apr-1",
+      "industry": null,
+      "capability": null,
+      "event_type": "wellbeing",
+      "open_to_all": true,
+      "date_utc": "2026-04-17",
+      "time_utc": "12:15-13:00",
+      "location": "In-Person: London Office - Basement Gym",
+      "rsvp_link": "https://intranet.example/rsvp/spin-class-apr-1",
+      "contact_ids": ["contact_alex_wellbeinglead"],
+      "tags": ["open_to_all", "wellbeing", "spin", "fitness", "lunchtime"]
+    },
+    {
+      "id": "event_054",
+      "title": "5K Friday Run - GCS Loop",
+      "description": "End the week on a high with a social 5K run around the GCS loop. Walkers and joggers equally welcome. Coffee stop after at the finish point.\n\nDate: 2026-05-01\nTime: 07:45-08:45 GMT\nFormat: In-Person (Meet outside GCS Building)\n\nRSVP: https://intranet.example/rsvp/5k-friday-may-1",
+      "industry": null,
+      "capability": null,
+      "event_type": "wellbeing",
+      "open_to_all": true,
+      "date_utc": "2026-05-01",
+      "time_utc": "07:45-08:45",
+      "location": "In-Person: GCS Building, Canary Wharf",
+      "rsvp_link": "https://intranet.example/rsvp/5k-friday-may-1",
+      "contact_ids": ["contact_alex_early_careerslead"],
+      "tags": ["open_to_all", "wellbeing", "running", "5k", "social", "coffee"]
+    },
+    {
+      "id": "event_055",
+      "title": "Virtual Coffee Morning - Remote Workers Welcome",
+      "description": "A virtual coffee morning specifically designed for remote and hybrid colleagues. Hop on with your brew, meet new faces, and have a genuinely unstructured conversation. No slides, no agenda.\n\nDate: 2026-05-16\nTime: 09:00-09:45 GMT\nFormat: Virtual (Teams)\n\nRSVP: https://intranet.example/rsvp/virtual-coffee-may-1\nTeams: https://teams.example/join/virtual-coffee-may-1",
+      "industry": null,
+      "capability": null,
+      "event_type": "networking",
+      "open_to_all": true,
+      "date_utc": "2026-05-16",
+      "time_utc": "09:00-09:45",
+      "location": "Virtual: Teams",
+      "rsvp_link": "https://intranet.example/rsvp/virtual-coffee-may-1",
+      "contact_ids": ["contact_nina_inclusivelead"],
+      "tags": ["open_to_all", "networking", "coffee", "virtual", "remote", "social"]
+    }
+  ]
+}

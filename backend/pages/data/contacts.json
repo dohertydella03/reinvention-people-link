@@ -1,0 +1,407 @@
+{ "contacts": [
+    {
+      "id": "contact_alex_wellbeinglead",
+      "name": "Alex WellbeingLead",
+      "role": "Digital Engineering Community Lead",
+      "primary_capability": "Digital Engineering",
+      "industry_experience": [
+        "Health & Public Service",
+        "Communications, Media & Technology"
+      ],
+      "transition_story": "Moved from Health & Public Service consulting into Digital Engineering after upskilling in Agile delivery and API development.",
+      "email": "alex.wellbeing@company.example",
+      "open_to_contact": true,
+      "contact_reason_tags": [
+        "career_transition",
+        "networking",
+        "digital_engineering",
+        "capability:Digital Engineering"
+      ]
+    },
+    {
+      "id": "contact_alex_innovationlead",
+      "name": "Alex InnovationLead",
+      "role": "Innovation & CMT Community Lead",
+      "primary_capability": "Digital Engineering",
+      "industry_experience": [
+        "Health & Public Service",
+        "Communications, Media & Technology"
+      ],
+      "transition_story": "Started career in Health & Public Service before transitioning into Communications, Media & Technology, focusing on media platform innovation.",
+      "email": "alex.innovation@company.example",
+      "open_to_contact": true,
+      "contact_reason_tags": [
+        "career_transition",
+        "networking",
+        "industry:Communications, Media & Technology",
+        "industry:Health & Public Service"
+      ]
+    },
+    {
+      "id": "contact_technology_lead",
+      "name": "Alex TechnologyLead",
+      "role": "Technology Community Lead",
+      "primary_capability": "Cyber Security",
+      "industry_experience": [
+        "Health & Public Service",
+        "Communications, Media & Technology"
+      ],
+      "transition_story": "Originally in HPS digital project delivery, transitioned into Cyber Security with a focus on healthcare data security and identity management.",
+      "email": "alex.technology@company.example",
+      "open_to_contact": true,
+      "contact_reason_tags": [
+        "career_transition",
+        "cyber_networking",
+        "capability:Cyber Security",
+        "industry:Health & Public Service"
+      ]
+    },
+    {
+      "id": "contact_alex_cyberlead",
+      "name": "Alex CyberLead",
+      "role": "Cyber Security Practice Lead",
+      "primary_capability": "Cyber Security",
+      "industry_experience": [
+        "Financial Services",
+        "Health & Public Service"
+      ],
+      "transition_story": "Built career in Financial Services risk and compliance before specialising in Cyber Security, leading cross-industry security programmes.",
+      "email": "alex.cyber@company.example",
+      "open_to_contact": true,
+      "contact_reason_tags": [
+        "career_transition",
+        "cyber",
+        "networking",
+        "capability:Cyber Security",
+        "industry:Financial Services"
+      ]
+    },
+    {
+      "id": "contact_priya_datalead",
+      "name": "Priya DataLead",
+      "role": "Data & AI Community Lead",
+      "primary_capability": "Data & AI",
+      "industry_experience": [
+        "Financial Services",
+        "Products"
+      ],
+      "transition_story": "Began career in Financial Services data analytics before moving into the Products industry to lead consumer data and AI programmes.",
+      "email": "priya.data@company.example",
+      "open_to_contact": true,
+      "contact_reason_tags": [
+        "career_transition",
+        "networking",
+        "data",
+        "AI",
+        "capability:Data & AI",
+        "industry:Financial Services",
+        "industry:Products"
+      ]
+    },
+    {
+      "id": "contact_james_cloudlead",
+      "name": "James CloudLead",
+      "role": "Cloud & Infrastructure Practice Lead",
+      "primary_capability": "Cloud & Infrastructure",
+      "industry_experience": [
+        "Resources",
+        "Financial Services"
+      ],
+      "transition_story": "Started in Resources industry IT operations before transitioning into Cloud & Infrastructure, now leading large-scale cloud migration programmes in Financial Services.",
+      "email": "james.cloud@company.example",
+      "open_to_contact": true,
+      "contact_reason_tags": [
+        "career_transition",
+        "networking",
+        "cloud",
+        "capability:Cloud & Infrastructure",
+        "industry:Resources",
+        "industry:Financial Services"
+      ]
+    },
+    {
+      "id": "contact_omar_devseclead",
+      "name": "Omar DevSecLead",
+      "role": "DevSecOps Community Lead",
+      "primary_capability": "DevSecOps",
+      "industry_experience": [
+        "Communications, Media & Technology",
+        "Products"
+      ],
+      "transition_story": "Originally a software developer in CMT, shifted focus to DevSecOps after identifying a passion for secure pipeline design and platform engineering.",
+      "email": "omar.devsec@company.example",
+      "open_to_contact": true,
+      "contact_reason_tags": [
+        "career_transition",
+        "networking",
+        "devsecops",
+        "capability:DevSecOps",
+        "industry:Communications, Media & Technology"
+      ]
+    },
+    {
+      "id": "contact_sarah_hpslead",
+      "name": "Sarah HPSLead",
+      "role": "Health & Public Service Industry Lead",
+      "primary_capability": "Digital Engineering",
+      "industry_experience": [
+        "Health & Public Service",
+        "Products"
+      ],
+      "transition_story": "Moved from the Products sector into Health & Public Service, bringing commercial industry experience to NHS and central government digital programmes.",
+      "email": "sarah.hps@company.example",
+      "open_to_contact": true,
+      "contact_reason_tags": [
+        "career_transition",
+        "networking",
+        "industry:Health & Public Service",
+        "industry:Products"
+      ]
+    },
+    {
+      "id": "contact_lena_fslead",
+      "name": "Lena FSLead",
+      "role": "Financial Services Industry Lead",
+      "primary_capability": "Data & AI",
+      "industry_experience": [
+        "Financial Services",
+        "Resources"
+      ],
+      "transition_story": "Spent early career in Resources sector data and analytics before transitioning to Financial Services, now leading data-driven client programmes.",
+      "email": "lena.fs@company.example",
+      "open_to_contact": true,
+      "contact_reason_tags": [
+        "career_transition",
+        "networking",
+        "industry:Financial Services",
+        "industry:Resources",
+        "capability:Data & AI"
+      ]
+    },
+    {
+      "id": "contact_ben_resourceslead",
+      "name": "Ben ResourcesLead",
+      "role": "Resources Industry Lead",
+      "primary_capability": "Cloud & Infrastructure",
+      "industry_experience": [
+        "Resources",
+        "Communications, Media & Technology"
+      ],
+      "transition_story": "Started in CMT infrastructure roles before pivoting to the Resources industry, focusing on energy sector digital transformation and cloud adoption.",
+      "email": "ben.resources@company.example",
+      "open_to_contact": true,
+      "contact_reason_tags": [
+        "career_transition",
+        "networking",
+        "industry:Resources",
+        "capability:Cloud & Infrastructure"
+      ]
+    },
+    {
+      "id": "contact_fatima_productslead",
+      "name": "Fatima ProductsLead",
+      "role": "Products Industry Lead",
+      "primary_capability": "Data & AI",
+      "industry_experience": [
+        "Products",
+        "Health & Public Service"
+      ],
+      "transition_story": "Built a career in HPS data and policy analytics before transitioning into the Products sector to lead consumer intelligence and AI transformation programmes.",
+      "email": "fatima.products@company.example",
+      "open_to_contact": true,
+      "contact_reason_tags": [
+        "career_transition",
+        "networking",
+        "industry:Products",
+        "industry:Health & Public Service",
+        "capability:Data & AI"
+      ]
+    },
+    {
+      "id": "contact_nina_inclusivelead",
+      "name": "Nina InclusiveLead",
+      "role": "Inclusion & Diversity Lead",
+      "primary_capability": "Digital Engineering",
+      "industry_experience": [
+        "Health & Public Service",
+        "Financial Services"
+      ],
+      "transition_story": "Transitioned from HPS delivery consulting into Financial Services, and took on an additional Inclusion & Diversity leadership role alongside her client work.",
+      "email": "nina.inclusive@company.example",
+      "open_to_contact": true,
+      "contact_reason_tags": [
+        "career_transition",
+        "networking",
+        "inclusion",
+        "diversity",
+        "industry:Health & Public Service",
+        "industry:Financial Services"
+      ]
+    },
+    {
+      "id": "contact_alex_early_careerslead",
+      "name": "Alex EarlyCareerLead",
+      "role": "Early Careers Community Lead",
+      "primary_capability": "Digital Engineering",
+      "industry_experience": [
+        "Communications, Media & Technology",
+        "Products"
+      ],
+      "transition_story": "Joined via the graduate programme in CMT and later moved to Products, now leads the Early Careers community supporting graduates across all industry groups.",
+      "email": "alex.earlycareers@company.example",
+      "open_to_contact": true,
+      "contact_reason_tags": [
+        "career_transition",
+        "networking",
+        "early_careers",
+        "graduate",
+        "mentoring"
+      ]
+    },
+    {
+      "id": "contact_raj_devsectransition",
+      "name": "Raj DevSecTransition",
+      "role": "Senior DevSecOps Consultant",
+      "primary_capability": "DevSecOps",
+      "industry_experience": [
+        "Financial Services",
+        "Health & Public Service"
+      ],
+      "transition_story": "Moved from FS software delivery into DevSecOps, now supporting HPS clients with secure CI/CD pipeline delivery on public sector programmes.",
+      "email": "raj.devsec@company.example",
+      "open_to_contact": true,
+      "contact_reason_tags": [
+        "career_transition",
+        "networking",
+        "devsecops",
+        "capability:DevSecOps",
+        "industry:Financial Services",
+        "industry:Health & Public Service"
+      ]
+    },
+    {
+      "id": "contact_clara_cloudtransition",
+      "name": "Clara CloudTransition",
+      "role": "Cloud Solutions Architect",
+      "primary_capability": "Cloud & Infrastructure",
+      "industry_experience": [
+        "Health & Public Service",
+        "Resources"
+      ],
+      "transition_story": "Former HPS infrastructure consultant who transitioned into Cloud Architecture, now delivering cloud-native solutions for Resources sector clients.",
+      "email": "clara.cloud@company.example",
+      "open_to_contact": true,
+      "contact_reason_tags": [
+        "career_transition",
+        "networking",
+        "cloud",
+        "capability:Cloud & Infrastructure",
+        "industry:Health & Public Service",
+        "industry:Resources"
+      ]
+    },
+    {
+      "id": "contact_tom_datamove",
+      "name": "Tom DataMove",
+      "role": "Data Engineer",
+      "primary_capability": "Data & AI",
+      "industry_experience": [
+        "Resources",
+        "Communications, Media & Technology"
+      ],
+      "transition_story": "Transitioned from a Resources industry operations analyst role into Data Engineering within the CMT industry group, specialising in data platform builds.",
+      "email": "tom.data@company.example",
+      "open_to_contact": true,
+      "contact_reason_tags": [
+        "career_transition",
+        "networking",
+        "data",
+        "capability:Data & AI",
+        "industry:Resources",
+        "industry:Communications, Media & Technology"
+      ]
+    },
+    {
+      "id": "contact_mei_cybermove",
+      "name": "Mei CyberMove",
+      "role": "Cyber Security Analyst",
+      "primary_capability": "Cyber Security",
+      "industry_experience": [
+        "Products",
+        "Financial Services"
+      ],
+      "transition_story": "Started in Products sector technology consulting, moved into Financial Services where she built a Cyber Security specialism in fraud detection and IAM.",
+      "email": "mei.cyber@company.example",
+      "open_to_contact": true,
+      "contact_reason_tags": [
+        "career_transition",
+        "networking",
+        "cyber",
+        "capability:Cyber Security",
+        "industry:Products",
+        "industry:Financial Services"
+      ]
+    },
+    {
+      "id": "contact_david_detransition",
+      "name": "David DETransition",
+      "role": "Digital Engineer",
+      "primary_capability": "Digital Engineering",
+      "industry_experience": [
+        "Financial Services",
+        "Resources"
+      ],
+      "transition_story": "Moved from a Financial Services business analyst background into Digital Engineering after completing self-paced coding and Agile certifications.",
+      "email": "david.de@company.example",
+      "open_to_contact": true,
+      "contact_reason_tags": [
+        "career_transition",
+        "networking",
+        "digital_engineering",
+        "capability:Digital Engineering",
+        "industry:Financial Services",
+        "industry:Resources"
+      ]
+    },
+    {
+      "id": "contact_anya_hpstoproducts",
+      "name": "Anya HPSToProducts",
+      "role": "Management Consultant",
+      "primary_capability": "Digital Engineering",
+      "industry_experience": [
+        "Health & Public Service",
+        "Products"
+      ],
+      "transition_story": "Spent four years in HPS on NHS digital programmes, then transitioned to the Products industry supporting FMCG clients on digital and data initiatives.",
+      "email": "anya.hpstoproducts@company.example",
+      "open_to_contact": true,
+      "contact_reason_tags": [
+        "career_transition",
+        "networking",
+        "industry:Health & Public Service",
+        "industry:Products"
+      ]
+    },
+    {
+      "id": "contact_leo_cmttofs",
+      "name": "Leo CMTToFS",
+      "role": "Technology Consultant",
+      "primary_capability": "Data & AI",
+      "industry_experience": [
+        "Communications, Media & Technology",
+        "Financial Services"
+      ],
+      "transition_story": "Built data analytics skills in CMT media clients, then transitioned into Financial Services to focus on capital markets data and regulatory reporting.",
+      "email": "leo.cmttofs@company.example",
+      "open_to_contact": true,
+      "contact_reason_tags": [
+        "career_transition",
+        "networking",
+        "data",
+        "industry:Communications, Media & Technology",
+        "industry:Financial Services",
+        "capability:Data & AI"
+      ]
+    }
+  ]
+}

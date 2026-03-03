@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "dataset_name": "Enterprise Opportunities & Learning",
+    "organisation": "Accenture",
+    "chatbot_use_cases": [
+      "Retrieve upcoming open events filtered by industry, capability, or type",
+      "Recommend training courses for capability transitions",
+      "Identify gaps in users profile and any skills or trainings they may need in order to transition into new role",
+      "Identify contacts who have made specific industry or capability transitions",
+      "Provide step-by-step career transition pathways",
+      "Draft outreach messages to community leads or transition contacts"
+    ],
+    "industries_reference": [
+      "Health & Public Service",
+      "Financial Services",
+      "Communications, Media & Technology",
+      "Products",
+      "Resources"
+    ],
+    "capabilities_reference": [
+      "Cyber Security",
+      "Cloud & Infrastructure",
+      "DevSecOps",
+      "Data & AI",
+      "Digital Engineering"
+    ]
+  }
+}

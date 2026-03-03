@@ -1,0 +1,312 @@
+{
+  "profile": {
+    "employee_id": "EMP-084721",
+    "personal": {
+      "first_name": "Yinka",
+      "last_name": "Murphy",
+      "preferred_name": "Yinka",
+      "pronouns": "they/them",
+      "email": "yinka.murphy@company.example",
+      "phone": "+44 7700 900342",
+      "location": {
+        "city": "Dublin",
+        "country": "Ireland",
+        "office": "GCS",
+        "work_arrangement": "Hybrid"
+      },
+      "profile_photo_url": "https://intranet.example/profiles/emp-084721/photo"
+    },
+    "employment": {
+      "status": "Active",
+      "hire_date": "2021-09-06",
+      "tenure_years": 4.4,
+      "employment_type": "Full-Time",
+      "grade": "Consultant",
+      "career_track": "Technology",
+      "current_role": {
+        "title": "Technology Consultant",
+        "department": "Health & Public Service",
+        "industry_group": "Health & Public Service",
+        "capability": "Digital Engineering",
+        "team": "HSE Digital Transformation",
+        "people_lead": "Sarah HPSLead",
+        "people_lead_email": "sarah.hps@company.example",
+        "start_date": "2022-03-01"
+      },
+      "previous_roles": [
+        {
+          "title": "Analyst",
+          "department": "Health & Public Service",
+          "industry_group": "Health & Public Service",
+          "capability": "Digital Engineering",
+          "start_date": "2021-09-06",
+          "end_date": "2022-02-28"
+        }
+      ]
+    },
+    "executive_summary": "Jordan is a Technology Consultant in the Health & Public Service industry group with over 4 years at Accenture. Based in Dublin, Jordan has focused on HSE digital transformation programmes, contributing to patient-facing portal development, API integration projects, and agile delivery across cross-functional teams. Jordan has a strong foundation in Digital Engineering and is actively exploring a transition into Cyber Security, with a particular interest in healthcare data security and identity management. Known for clear communication, a collaborative working style, and a genuine curiosity for emerging technologies.",
+    "skills": {
+      "technical": [
+        {
+          "skill": "Agile & Scrum",
+          "proficiency": "Proficient",
+          "years_experience": 3
+        },
+        {
+          "skill": "RESTful API Design",
+          "proficiency": "Developing",
+          "years_experience": 2
+        },
+        {
+          "skill": "Python (Scripting)",
+          "proficiency": "Developing",
+          "years_experience": 1
+        },
+        {
+          "skill": "SQL",
+          "proficiency": "Proficient",
+          "years_experience": 3
+        },
+        {
+          "skill": "Azure (Fundamentals)",
+          "proficiency": "Awareness",
+          "years_experience": 1
+        },
+        {
+          "skill": "JIRA & Confluence",
+          "proficiency": "Proficient",
+          "years_experience": 4
+        },
+        {
+          "skill": "Microsoft Power Platform",
+          "proficiency": "Developing",
+          "years_experience": 2
+        }
+      ],
+      "consulting": [
+        {
+          "skill": "Stakeholder Management",
+          "proficiency": "Proficient",
+          "years_experience": 4
+        },
+        {
+          "skill": "Requirements Gathering",
+          "proficiency": "Proficient",
+          "years_experience": 3
+        },
+        {
+          "skill": "User Story Writing",
+          "proficiency": "Proficient",
+          "years_experience": 3
+        },
+        {
+          "skill": "Process Mapping",
+          "proficiency": "Proficient",
+          "years_experience": 3
+        },
+        {
+          "skill": "Workshop Facilitation",
+          "proficiency": "Developing",
+          "years_experience": 2
+        },
+        {
+          "skill": "Executive Presentations",
+          "proficiency": "Awareness",
+          "years_experience": 1
+        }
+      ],
+      "domain": [
+        {
+          "skill": "HSE Digital Services",
+          "proficiency": "Proficient",
+          "years_experience": 3
+        },
+        {
+          "skill": "Public Sector Procurement",
+          "proficiency": "Awareness",
+          "years_experience": 2
+        },
+        {
+          "skill": "GDPR & Data Privacy",
+          "proficiency": "Developing",
+          "years_experience": 2
+        },
+        {
+          "skill": "Cyber Security Fundamentals",
+          "proficiency": "Awareness",
+          "years_experience": 1
+        }
+      ]
+    },
+    "certifications": [
+      {
+        "name": "Certified SAFe 5 Practitioner",
+        "issuer": "Scaled Agile",
+        "date_achieved": "2022-11-14",
+        "expiry_date": "2025-11-14",
+        "status": "Expired — renewal recommended"
+      },
+      {
+        "name": "Microsoft Azure Fundamentals (AZ-900)",
+        "issuer": "Microsoft",
+        "date_achieved": "2023-06-22",
+        "expiry_date": null,
+        "status": "Active"
+      },
+      {
+        "name": "Accenture Cyber Security Awareness Essentials",
+        "issuer": "Accenture Internal",
+        "date_achieved": "2024-01-10",
+        "expiry_date": "2026-01-10",
+        "status": "Active"
+      }
+    ],
+    "education": [
+      {
+        "institution": "University of Edinburgh",
+        "degree": "BSc Computer Science & Management",
+        "grade": "2:1",
+        "year_graduated": 2021
+      }
+    ],
+    "learning": {
+      "completed_training": [
+        {
+          "training_id": "training_009",
+          "title": "Digital Engineering: Agile & Scrum Fundamentals",
+          "completed_date": "2022-02-01",
+          "score_percent": 91
+        },
+        {
+          "training_id": "training_006",
+          "title": "Data Analytics Fundamentals",
+          "completed_date": "2023-09-15",
+          "score_percent": 78
+        },
+        {
+          "training_id": "training_011",
+          "title": "Health & Public Service Digital Transformation",
+          "completed_date": "2022-01-20",
+          "score_percent": 88
+        }
+      ],
+      "in_progress_training": [
+        {
+          "training_id": "training_001",
+          "title": "Cyber Security Fundamentals",
+          "progress_percent": 45,
+          "started_date": "2026-02-10"
+        }
+      ],
+      "recommended_training_ids": [
+        "training_003",
+        "training_004",
+        "training_016"
+      ],
+      "total_learning_hours_ytd": 18
+    },
+    "events": {
+      "registered": [
+        {
+          "event_id": "event_001",
+          "title": "Cyber Security Open Networking Session",
+          "date_utc": "2026-04-01",
+          "registration_date": "2026-03-01"
+        },
+        {
+          "event_id": "event_010",
+          "title": "Early Careers Development Day",
+          "date_utc": "2026-04-16",
+          "registration_date": "2026-02-28"
+        }
+      ],
+      "attended_history": [
+        {
+          "event_id": "event_022",
+          "title": "Mentor Speed Networking: All Capabilities",
+          "date_utc": "2025-11-12"
+        },
+        {
+          "event_id": "event_013",
+          "title": "Cross-Industry Career Conversations Roundtable",
+          "date_utc": "2025-10-23"
+        }
+      ]
+    },
+    "career_development": {
+      "current_pathway_id": "career_pathway_001",
+      "current_pathway_title": "Health & Public Service to Cyber Security",
+      "pathway_progress": {
+        "steps_total": 5,
+        "steps_completed": 2,
+        "current_step": 3,
+        "current_step_title": "Connect with Cyber Practitioners",
+        "percent_complete": 40
+      },
+      "career_interests": [
+        "Cyber Security",
+        "Identity & Access Management",
+        "Cloud Security",
+        "Healthcare Data Protection"
+      ],
+      "target_role": "Cyber Security Analyst",
+      "target_capability": "Cyber Security",
+      "development_goals": [
+        {
+          "goal": "Complete Cyber Security Fundamentals training",
+          "due_date": "2026-04-30",
+          "status": "In Progress"
+        },
+        {
+          "goal": "Attend at least 2 Cyber networking events this quarter",
+          "due_date": "2026-06-30",
+          "status": "In Progress"
+        },
+        {
+          "goal": "Connect with a Cyber practitioner for career conversation",
+          "due_date": "2026-05-31",
+          "status": "Not Started"
+        },
+        {
+          "goal": "Renew SAFe Practitioner certification",
+          "due_date": "2026-06-30",
+          "status": "Not Started"
+        }
+      ],
+      "mentors": [],
+      "notes": "Jordan had an initial career conversation with People Lead in January 2026. Agreed to explore Cyber Security transition over the next 6 months with a formal review in Q3 2026."
+    },
+    "performance": {
+      "current_year_rating": null,
+      "prior_year_rating": "Meets Expectations +",
+      "last_review_date": "2025-12-01",
+      "next_review_date": "2026-06-01",
+      "key_strengths": [
+        "Delivery focus and reliability",
+        "Stakeholder communication",
+        "Collaborative team player"
+      ],
+      "development_areas": [
+        "Building technical depth in security and cloud",
+        "Increasing visibility with senior stakeholders",
+        "Driving own career development more proactively"
+      ]
+    },
+    "preferences": {
+      "learning_format": ["self-paced", "virtual"],
+      "preferred_event_format": ["virtual", "hybrid"],
+      "open_to_mentoring": true,
+      "open_to_being_contacted": true,
+      "newsletter_subscriptions": [
+        "Cyber Security Community Digest",
+        "HPS Monthly Update",
+        "Early Careers Bulletin"
+      ]
+    },
+    "metadata": {
+      "profile_last_updated": "2026-03-01T09:00:00Z",
+      "data_source": "Workday HCM",
+      "schema_version": "2.1"
+    }
+  }
+}

@@ -1,0 +1,531 @@
+{ "career_transition_pathways": [
+    {
+      "id": "career_pathway_001",
+      "source_type": "career_transition_pathway",
+      "title": "Health & Public Service → Cyber Security",
+      "description": "A guided pathway for employees in Health & Public Service who want to transition into Cyber Security roles.",
+      "from_industry": "Health & Public Service",
+      "to_capability": "Cyber Security",
+      "applies_across_industries": [
+        "Health & Public Service",
+        "Financial Services",
+        "Communications, Media & Technology",
+        "Products",
+        "Resources"
+      ],
+      "target_roles_examples": [
+        "Cyber Security Analyst",
+        "Cyber Risk Consultant",
+        "IAM Specialist",
+        "Security Operations Associate"
+      ],
+      "pathway_steps": [
+        {
+          "step_order": 1,
+          "step_type": "awareness",
+          "title": "Explore Cyber as a Capability",
+          "objective": "Understand what Cyber Security roles involve and how they apply across industries.",
+          "recommended_actions": [
+            "Attend open cyber or technology networking events",
+            "Review internal cyber community posts and role profiles"
+          ],
+          "related_event_ids": [
+            "event_001",
+            "event_017",
+            "event_047"
+          ],
+          "tags": [
+            "exploration",
+            "open_to_all"
+          ]
+        },
+        {
+          "step_order": 2,
+          "step_type": "learning",
+          "title": "Build Cyber Fundamentals",
+          "objective": "Gain baseline cyber knowledge suitable for career transition.",
+          "recommended_actions": [
+            "Complete beginner cyber training",
+            "Focus on security fundamentals and terminology"
+          ],
+          "related_training_ids": [
+            "training_001",
+            "training_003"
+          ],
+          "tags": [
+            "training",
+            "beginner",
+            "career_transition"
+          ]
+        },
+        {
+          "step_order": 3,
+          "step_type": "networking",
+          "title": "Connect with Cyber Practitioners",
+          "objective": "Learn from people already working in cyber roles and understand entry pathways.",
+          "recommended_actions": [
+            "Reach out to cyber community leads",
+            "Request informal career conversations"
+          ],
+          "related_contact_ids": [
+            "contact_alex_early_careerslead",
+            "contact_technology_lead",
+            "contact_alex_cyberlead"
+          ],
+          "tags": [
+            "networking",
+            "mentoring",
+            "open_to_contact"
+          ]
+        },
+        {
+          "step_order": 4,
+          "step_type": "specialisation",
+          "title": "Choose an Entry Cyber Focus Area",
+          "objective": "Identify a cyber sub-area aligned to your interests and background.",
+          "focus_areas": [
+            "Cyber Risk & Compliance",
+            "Identity & Access Management (IAM)",
+            "Cloud Security",
+            "DevSecOps"
+          ],
+          "recommended_training_ids": [
+            "training_003",
+            "training_004"
+          ],
+          "tags": [
+            "specialisation",
+            "cyber"
+          ]
+        },
+        {
+          "step_order": 5,
+          "step_type": "transition",
+          "title": "Prepare for Role Transition",
+          "objective": "Position yourself for cyber opportunities.",
+          "recommended_actions": [
+            "Update skills profile with completed training",
+            "Discuss transition with your People Lead",
+            "Apply for internal cyber roles or shadowing opportunities"
+          ],
+          "tags": [
+            "role_transition",
+            "career_move"
+          ]
+        }
+      ],
+      "success_indicators": [
+        "Completion of beginner cyber training",
+        "Participation in at least one cyber networking event",
+        "Career conversation with a cyber practitioner"
+      ],
+      "confidence_level": "guided",
+      "tags": [
+        "career_transition",
+        "cyber",
+        "health_to_cyber",
+        "cross_industry"
+      ],
+      "last_updated_utc": "2026-03-02T15:00:00Z"
+    },
+    {
+      "id": "career_pathway_002",
+      "source_type": "career_transition_pathway",
+      "title": "Financial Services → Data & AI",
+      "description": "A guided pathway for Financial Services employees who want to move into Data & AI roles, leveraging their existing analytical and regulatory knowledge.",
+      "from_industry": "Financial Services",
+      "to_capability": "Data & AI",
+      "applies_across_industries": [
+        "Financial Services",
+        "Health & Public Service",
+        "Products",
+        "Resources",
+        "Communications, Media & Technology"
+      ],
+      "target_roles_examples": [
+        "Data Analyst",
+        "Data Engineer",
+        "ML Engineer",
+        "AI Consultant",
+        "Business Intelligence Developer"
+      ],
+      "pathway_steps": [
+        {
+          "step_order": 1,
+          "step_type": "awareness",
+          "title": "Explore Data & AI as a Capability",
+          "objective": "Understand what Data & AI roles look like and how financial services experience transfers.",
+          "recommended_actions": [
+            "Attend open Data & AI networking events",
+            "Speak with colleagues already in Data & AI"
+          ],
+          "related_event_ids": [
+            "event_002",
+            "event_012",
+            "event_042"
+          ],
+          "tags": [
+            "exploration",
+            "open_to_all"
+          ]
+        },
+        {
+          "step_order": 2,
+          "step_type": "learning",
+          "title": "Build Data Foundations",
+          "objective": "Develop core data literacy and technical foundations.",
+          "recommended_actions": [
+            "Complete data analytics fundamentals training",
+            "Learn Python basics for data work"
+          ],
+          "related_training_ids": [
+            "training_006",
+            "training_007",
+            "training_015"
+          ],
+          "tags": [
+            "training",
+            "beginner",
+            "data",
+            "career_transition"
+          ]
+        },
+        {
+          "step_order": 3,
+          "step_type": "networking",
+          "title": "Connect with Data & AI Practitioners",
+          "objective": "Build your network in the Data & AI community and understand career routes.",
+          "recommended_actions": [
+            "Attend the Data & AI Community Connect event",
+            "Request a career conversation with the Data & AI Lead"
+          ],
+          "related_contact_ids": [
+            "contact_priya_datalead",
+            "contact_lena_fslead",
+            "contact_leo_cmttofs"
+          ],
+          "tags": [
+            "networking",
+            "mentoring",
+            "open_to_contact"
+          ]
+        },
+        {
+          "step_order": 4,
+          "step_type": "specialisation",
+          "title": "Choose a Data & AI Specialism",
+          "objective": "Identify a specialism that aligns with your FS background.",
+          "focus_areas": [
+            "Data Engineering",
+            "Machine Learning & AI Modelling",
+            "Business Intelligence & Analytics",
+            "Responsible AI & Governance"
+          ],
+          "recommended_training_ids": [
+            "training_020",
+            "training_012"
+          ],
+          "tags": [
+            "specialisation",
+            "data",
+            "AI"
+          ]
+        },
+        {
+          "step_order": 5,
+          "step_type": "transition",
+          "title": "Prepare for Role Transition",
+          "objective": "Position yourself for Data & AI opportunities.",
+          "recommended_actions": [
+            "Build a portfolio of data projects or case studies",
+            "Discuss internal mobility with your People Lead",
+            "Apply for Data & AI roles or cross-capability secondments"
+          ],
+          "tags": [
+            "role_transition",
+            "career_move"
+          ]
+        }
+      ],
+      "success_indicators": [
+        "Completion of data analytics fundamentals training",
+        "Attendance at a Data & AI networking event",
+        "Career conversation with a Data & AI practitioner",
+        "Basic Python or SQL skills demonstrated"
+      ],
+      "confidence_level": "guided",
+      "tags": [
+        "career_transition",
+        "data",
+        "AI",
+        "fs_to_data",
+        "cross_capability"
+      ],
+      "last_updated_utc": "2026-03-02T15:00:00Z"
+    },
+    {
+      "id": "career_pathway_003",
+      "source_type": "career_transition_pathway",
+      "title": "Health & Public Service → Digital Engineering",
+      "description": "A guided pathway for HPS employees looking to build a career in Digital Engineering, drawing on their public sector delivery experience.",
+      "from_industry": "Health & Public Service",
+      "to_capability": "Digital Engineering",
+      "applies_across_industries": [
+        "Health & Public Service",
+        "Financial Services",
+        "Products",
+        "Resources",
+        "Communications, Media & Technology"
+      ],
+      "target_roles_examples": [
+        "Software Engineer",
+        "Agile Delivery Manager",
+        "API Developer",
+        "Frontend Developer",
+        "Technical Business Analyst"
+      ],
+      "pathway_steps": [
+        {
+          "step_order": 1,
+          "step_type": "awareness",
+          "title": "Explore Digital Engineering",
+          "objective": "Understand the scope of Digital Engineering roles and how public sector experience transfers.",
+          "recommended_actions": [
+            "Attend open Digital Engineering networking events",
+            "Review Digital Engineering community resources"
+          ],
+          "related_event_ids": [
+            "event_004",
+            "event_020",
+            "event_023"
+          ],
+          "tags": [
+            "exploration",
+            "open_to_all"
+          ]
+        },
+        {
+          "step_order": 2,
+          "step_type": "learning",
+          "title": "Build Digital Engineering Foundations",
+          "objective": "Gain foundational skills in Agile delivery and software engineering basics.",
+          "recommended_actions": [
+            "Complete Agile & Scrum fundamentals training",
+            "Begin API design and REST fundamentals"
+          ],
+          "related_training_ids": [
+            "training_009",
+            "training_016"
+          ],
+          "tags": [
+            "training",
+            "beginner",
+            "digital_engineering",
+            "career_transition"
+          ]
+        },
+        {
+          "step_order": 3,
+          "step_type": "networking",
+          "title": "Connect with Digital Engineers",
+          "objective": "Build a network in Digital Engineering and understand entry roles.",
+          "recommended_actions": [
+            "Attend the HPS to Digital Engineering transition panel",
+            "Reach out to Digital Engineering Community Leads"
+          ],
+          "related_contact_ids": [
+            "contact_alex_wellbeinglead",
+            "contact_sarah_hpslead",
+            "contact_david_detransition"
+          ],
+          "tags": [
+            "networking",
+            "mentoring",
+            "open_to_contact"
+          ]
+        },
+        {
+          "step_order": 4,
+          "step_type": "specialisation",
+          "title": "Choose a Digital Engineering Specialism",
+          "objective": "Identify a DE sub-area suited to your background and interests.",
+          "focus_areas": [
+            "Agile Delivery & Project Management",
+            "Software Development (Frontend / Backend)",
+            "API & Integration Engineering",
+            "DevOps & Platform Engineering"
+          ],
+          "recommended_training_ids": [
+            "training_009",
+            "training_016"
+          ],
+          "tags": [
+            "specialisation",
+            "digital_engineering"
+          ]
+        },
+        {
+          "step_order": 5,
+          "step_type": "transition",
+          "title": "Prepare for Role Transition",
+          "objective": "Position yourself for Digital Engineering opportunities.",
+          "recommended_actions": [
+            "Build a small coding or Agile portfolio",
+            "Discuss transition goals with your People Lead",
+            "Explore internal Digital Engineering roles and secondments"
+          ],
+          "tags": [
+            "role_transition",
+            "career_move"
+          ]
+        }
+      ],
+      "success_indicators": [
+        "Completion of Agile or coding fundamentals training",
+        "Attendance at a Digital Engineering networking event",
+        "Career conversation with a Digital Engineering practitioner"
+      ],
+      "confidence_level": "guided",
+      "tags": [
+        "career_transition",
+        "digital_engineering",
+        "hps_to_de",
+        "cross_capability"
+      ],
+      "last_updated_utc": "2026-03-02T15:00:00Z"
+    },
+    {
+      "id": "career_pathway_004",
+      "source_type": "career_transition_pathway",
+      "title": "Financial Services → Cloud & Infrastructure",
+      "description": "A guided pathway for Financial Services employees who want to transition into Cloud & Infrastructure roles, leveraging their understanding of regulated, enterprise-scale environments.",
+      "from_industry": "Financial Services",
+      "to_capability": "Cloud & Infrastructure",
+      "applies_across_industries": [
+        "Financial Services",
+        "Health & Public Service",
+        "Resources",
+        "Products",
+        "Communications, Media & Technology"
+      ],
+      "target_roles_examples": [
+        "Cloud Engineer",
+        "Cloud Solutions Architect",
+        "Cloud Migration Consultant",
+        "Infrastructure Engineer",
+        "Site Reliability Engineer (SRE)"
+      ],
+      "pathway_steps": [
+        {
+          "step_order": 1,
+          "step_type": "awareness",
+          "title": "Explore Cloud & Infrastructure",
+          "objective": "Understand what Cloud & Infrastructure roles involve and how FS knowledge transfers.",
+          "recommended_actions": [
+            "Attend the Cloud & Infrastructure Career Pathways Panel",
+            "Review the Cloud community resources and role profiles"
+          ],
+          "related_event_ids": [
+            "event_003",
+            "event_015",
+            "event_026"
+          ],
+          "tags": [
+            "exploration",
+            "open_to_all"
+          ]
+        },
+        {
+          "step_order": 2,
+          "step_type": "learning",
+          "title": "Build Cloud Foundations",
+          "objective": "Develop core cloud knowledge and technical literacy.",
+          "recommended_actions": [
+            "Complete cloud computing essentials training",
+            "Begin AWS Cloud Practitioner preparation"
+          ],
+          "related_training_ids": [
+            "training_002",
+            "training_008"
+          ],
+          "tags": [
+            "training",
+            "beginner",
+            "cloud",
+            "career_transition"
+          ]
+        },
+        {
+          "step_order": 3,
+          "step_type": "networking",
+          "title": "Connect with Cloud Practitioners",
+          "objective": "Learn from Cloud & Infrastructure practitioners and understand pathways into the capability.",
+          "recommended_actions": [
+            "Join the Cloud Certification Study Group",
+            "Request a career conversation with the Cloud Practice Lead"
+          ],
+          "related_contact_ids": [
+            "contact_james_cloudlead",
+            "contact_clara_cloudtransition",
+            "contact_lena_fslead"
+          ],
+          "tags": [
+            "networking",
+            "mentoring",
+            "open_to_contact"
+          ]
+        },
+        {
+          "step_order": 4,
+          "step_type": "specialisation",
+          "title": "Choose a Cloud Specialism",
+          "objective": "Identify a cloud focus area that builds on your FS background.",
+          "focus_areas": [
+            "Cloud Security & Compliance (relevant to FS regulation)",
+            "Cloud Migration & Modernisation",
+            "Cloud Architecture",
+            "Infrastructure as Code (IaC)"
+          ],
+          "recommended_training_ids": [
+            "training_013",
+            "training_019",
+            "training_014"
+          ],
+          "tags": [
+            "specialisation",
+            "cloud"
+          ]
+        },
+        {
+          "step_order": 5,
+          "step_type": "transition",
+          "title": "Prepare for Role Transition",
+          "objective": "Position yourself for Cloud & Infrastructure opportunities.",
+          "recommended_actions": [
+            "Obtain an AWS or Azure foundational certification",
+            "Discuss transition goals with your People Lead",
+            "Explore internal cloud roles, secondments or project opportunities"
+          ],
+          "tags": [
+            "role_transition",
+            "career_move"
+          ]
+        }
+      ],
+      "success_indicators": [
+        "Completion of cloud essentials training",
+        "Attendance at a cloud networking or development event",
+        "Career conversation with a Cloud practitioner",
+        "Progress toward a cloud certification"
+      ],
+      "confidence_level": "guided",
+      "tags": [
+        "career_transition",
+        "cloud",
+        "fs_to_cloud",
+        "cross_capability"
+      ],
+      "last_updated_utc": "2026-03-02T15:00:00Z"
+    }
+  ]
+}
