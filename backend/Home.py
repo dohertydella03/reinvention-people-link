@@ -70,7 +70,7 @@ st.markdown("""
     letter-spacing: 0.1em; text-transform: uppercase; margin-bottom: 36px;
   }
   .nx-hero-title {
-    align-items: center;
+    display: inline-flex; align-items: center; gap: 8px;
     font-family: 'Syne', sans-serif;
     font-size: clamp(3.5rem, 9vw, 7rem);
     font-weight: 800; line-height: 1.0; letter-spacing: -0.03em;
