@@ -50,15 +50,16 @@ st.markdown("""
 <link href="https://fonts.googleapis.com/css2?family=Syne:wght@800&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet"/>
 
 <style>
-  .block-container { padding: 0 !important; max-width: 100% !important; }
+  .block-container,
+  [data-testid="stMainBlockContainer"],
+  section[data-testid="stMain"] > div {
+    padding: 0 !important;
+    max-width: 100% !important;
+  }
 
   .nx-hero {
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
+    min-height: 100vh; display: flex; flex-direction: column;
+    align-items: center; justify-content: center; text-align: center;
     padding: 100px 40px 80px;
     background: linear-gradient(135deg, #e8e0f5 0%, #f0e8f8 25%, #e0eef8 50%, #f5f0ff 75%, #ede8f5 100%);
   }
@@ -69,12 +70,17 @@ st.markdown("""
     font-family: 'DM Sans', sans-serif; font-size: 0.75rem; font-weight: 600;
     letter-spacing: 0.1em; text-transform: uppercase; margin-bottom: 36px;
   }
+  .nx-hero-title-wrap {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 28px;
+    margin-left: 145px;
+  }
   .nx-hero-title {
-    display: inline-flex; align-items: center; gap: 8px;
     font-family: 'Syne', sans-serif;
     font-size: clamp(3.5rem, 9vw, 7rem);
-    font-weight: 800; line-height: 1.0; letter-spacing: -0.03em;
-    color: #0a0a0f; margin-bottom: 28px;
+    font-weight: 800; line-height: 1.05; letter-spacing: -0.03em;
+    color: #0a0a0f; margin: 0;
   }
   .t-grad {
     background: linear-gradient(135deg, #00d4ff, #a100ff);
@@ -84,10 +90,7 @@ st.markdown("""
   .nx-hero-sub {
     font-family: 'DM Sans', sans-serif;
     font-size: clamp(1rem, 1.6vw, 1.15rem); font-weight: 300; color: #444;
-    max-width: 560px; margin: 0 auto 48px; line-height: 1.75;
-  }
-  .nx-hero-actions {
-    display: flex; gap: 16px; justify-content: center; flex-wrap: wrap; margin-bottom: 72px;
+    max-width: 560px; margin: 0 auto 48px; line-height: 1.75; text-align: center;
   }
   .nx-hero-stats {
     display: flex; gap: 64px; justify-content: center; flex-wrap: wrap;
@@ -104,16 +107,21 @@ st.markdown("""
 </style>
 
 <section class="nx-hero">
-  <div class="nx-eyebrow">● Path Finder - Accenture Internal Platform</div>
-  <h1 class="nx-hero-title">
-    Your career.<br>
-    Your <span class="t-grad">connections</span>.<br>
-    All in one <span class="t-accent">place</span>.
-  </h1>
+  <div class="nx-eyebrow">● Path Finder — Accenture Internal Platform</div>
+
+  <div class="nx-hero-title-wrap">
+    <h1 class="nx-hero-title">
+      Your career.
+      Your <span class="t-grad">connections</span>.
+      All in one <span class="t-accent">place</span>.
+    </h1>
+  </div>
+
   <p class="nx-hero-sub">
-    Path Finder is Accenture's internal networking hub - making events, contacts
+    Path Finder is Accenture's internal networking hub — making events, contacts
     and career opportunities visible and accessible across every department.
   </p>
+
   <div class="nx-hero-stats">
     <div class="nx-stat"><span class="nx-stat-num">2</span><div class="nx-stat-label">Core tools in one platform</div></div>
     <div class="nx-stat"><span class="nx-stat-num">&infin;</span><div class="nx-stat-label">Cross-department connections</div></div>
