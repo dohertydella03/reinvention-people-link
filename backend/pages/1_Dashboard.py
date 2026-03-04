@@ -29,9 +29,9 @@ def img_to_base64(path):
 BASE_DIR_1 = Path(__file__).parent
 logo_b64 = img_to_base64(BASE_DIR_1 / "logo.png")
 
-st.markdown(page_bg_img, unsafe_allow_html=True)
-
 st.set_page_config(layout="wide", page_title="Events Dashboard")
+
+st.markdown(page_bg_img, unsafe_allow_html=True)
 
 def load_data(filename):
     with open(os.path.join(DATA_DIR, filename), "r") as f:
