@@ -190,7 +190,12 @@ if (st.session_state.messages
         and st.session_state.messages[-1]["role"] == "user"):
 
     system_prompt = build_system_prompt(dataset, profile)
-    api_key = os.getenv('OPENAI_API_KEY')
+
+    api_key = st.secrets.get("OPENAI_API_KEY") or os.getenv("OPENAI_API_KEY")
+
+    if not api_key:
+        st.error("⚠️ OpenAI API key not found. Please add it to Streamlit secrets or your .env file.")
+        st.stop()
     client = OpenAI(api_key=api_key)
 
     with st.spinner("Thinking..."):
