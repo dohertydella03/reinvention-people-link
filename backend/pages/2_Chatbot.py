@@ -18,7 +18,6 @@ def img_to_base64(path):
         return base64.b64encode(f.read()).decode()
 
 robot_b64 = img_to_base64(os.path.join(BASE_DIR, "robot.png"))
-robot_icon = f'<img src="data:image/png;base64,{robot_b64}" width="30" style="vertical-align:middle; margin-right:6px;">'
 
 st.markdown("""
 <style>
@@ -157,7 +156,10 @@ with st.sidebar:
         st.rerun()
 
 st.markdown(f"""
-    <h2 style='margin-bottom:4px'> {robot_icon}Personal Career & Learning Assistant</h2>
+    <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 24px;">
+        <img src="data:image/png;base64,{robot_b64}" width="45" style="margin-bottom:8px;">
+        <h2 style="margin: 0; font-size: 32px;">Personal Career & Learning Assistant</h2>
+    </div>
 """, unsafe_allow_html=True)
 
 if "messages" not in st.session_state:
@@ -169,7 +171,7 @@ if "pending_suggestion" in st.session_state:
 
 for msg in st.session_state.messages:
     css_class = "chat-user" if msg["role"] == "user" else "chat-assistant"
-    icon      = "👧🏾" if msg["role"] == "user" else "{robot_icon}"
+    icon      = "👧🏾" if msg["role"] == "user" else "🤖"
     st.markdown(
         f'<div class="{css_class}">{icon} {msg["content"]}</div>',
         unsafe_allow_html=True,
@@ -206,7 +208,7 @@ if (st.session_state.messages
 
     st.session_state.messages.append({"role": "assistant", "content": assistant_reply})
     st.markdown(
-        f'<div class="chat-assistant">{robot_icon} {assistant_reply}</div>',
+        f'<div class="chat-assistant">"🤖" {assistant_reply}</div>',
         unsafe_allow_html=True,
     )
     st.rerun()
